@@ -1,0 +1,22 @@
+__Final Project:__
+
+The final project for this course will require you to produce software that manipulates and analyzes data.  This software must have a practical application for a current research project. If you do not currently have a research project will be paired with a researcher that has a computational need that is appropriate for the scope of the course and student group size.   Student group size will depend on the size of the program required for the research project and whether you are an undergraduate or a graduate student.
+
+__Your final project will include and be evaluated based on the following criteria.__
+* Cleaver or insightful program name.  Everyone loves a bad acronym.  
+* Name and contact info for project members.
+* Your Readme file.
+* How well you justify the purpose of the program in the background / introduction of the readme.
+* The clarity of the program workflow including the use dependencies.
+* The instructions for running your program. The expected output of your program. The references cited in the readme.
+* The completeness and effectiveness of scripts for accomplishing the research goal.  They can be written in Bash, Python, and or R.
+* The clarity of the vignette for teaching the researcher to use the software and the presence of example data, example output, and run and error logs.
+__Homework:__
+
+This course includes a broad range of topics and tools. Practice is the best way to learn how to program and homework assignments will prepare you for in class activities. Homework assignments will help you learn and master basic programming skills. Homework assignments will be submitted electronically before class. The submission cutoff is 7:45 am the day of class. Late submissions will be accepted but penalized 10% each day late (submitting 7:46 the day of class counts as 1 day late).
+__In class participation:__
+
+You will work alone or in teams during class time to generate scripts, solve problems, and participate in class challenges. These activities are designed to test your understanding of your homework assignments and challenge you to think more creatively about programming. All in class activities must be turned in during class to the course GitHub. If you have an excused absence (criteria for an excused absence is detailed below), you will be given an alternate exercise.  The lowest in class assignment score will be dropped from your in-class participation grade.
+__Lab assignments / participation:__
+
+You must attend computer lab. Computer lab assignments are designed to result in a practical product like a CV or website or to provide benchmarks and feedback on the final project. This is your opportunity to get immediate feedback on your final project and a good way to get personalized attention from Daniel.  All computer lab assignments must be turned in 15 minutes before your scheduled computer lab session.

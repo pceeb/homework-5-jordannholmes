@@ -1,0 +1,3 @@
+__In class participation:__
+
+You will work alone or in teams during class time to generate scripts, solve problems, and participate in class challenges. These activities are designed to test your understanding of your homework assignments and challenge you to think more creatively about programming. All in class activities must be turned in during class to the course GitHub. If you have an excused absence (criteria for an excused absence is detailed below), you will be given an alternate exercise.  The lowest in class assignment score will be dropped from your in-class participation grade.
