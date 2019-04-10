@@ -129,3 +129,4 @@ Udemy - USA.
 
 **Codewars bagdes:** <br>
 ![alt text](https://www.codewars.com/users/VSPPedro/badges/large)
+# Curriculum-Markdown
