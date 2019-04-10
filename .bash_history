@@ -438,3 +438,27 @@ ls
 less example.md
 s
 ls
+qrsh
+eeb-177 -ls
+cd eeb-177 -ls
+ls
+pwd
+ls
+nano README.md
+ls
+ls -a
+module load git
+git add .
+git commit -m "README.md"
+git push -u origin master
+module load git
+git add .
+git commit -m "README.md"
+git push -u origin master
+cd $HOME
+ls
+ls -a
+module load git
+git add .
+git commit -m "README.md"
+git push - u origin master
