@@ -1,0 +1,2 @@
+GeneID30DCH..sequenced..CA@19.##0#3##.30%UCLA..replicateA
+GeneID30DCH..sequenced..CA@19.##0#3##.30%UCLA..replicateB

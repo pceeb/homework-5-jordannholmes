@@ -1,0 +1,10 @@
+Log onto Hoffman2
+--Open a Secure Shell App
+Enter ssh and username
+Click Connect
+Enter password
+
+Log onto a Compute Node
+After entering password, will be on a login node
+Enter qrsh, will be put on a more specific node
+

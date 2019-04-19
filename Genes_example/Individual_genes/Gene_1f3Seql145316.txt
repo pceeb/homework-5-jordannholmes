@@ -1,0 +1,2 @@
+GeneID16DCH..sequenced..CA@19.##0#3##.16%UCLA..replicateA
+GeneID16DCH..sequenced..CA@19.##0#3##.16%UCLA..replicateB
