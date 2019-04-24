@@ -1,150 +1,4 @@
 ls
-cd second-assignment-jordannholmes/
-ls
-For_Daniel_re
-nano For_Daniel_realData.txt 
-cd $HOME
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-cd Data/
-ls
-cd fasta
-ls
-head -n3 407228326.fasta
-wc-l *.fasta
-wc -l *.fasta
-tail -n+2 407228326.fasta
-tail -n+2 407228326.fasta | tr -d "\n"
-tail -n+2 407228326.fasta | tr -d "\n" | wc -c
-1836
-cd-n+2 407228326.fasta | tr -d "\n" | wc -c
-1836
-cd tail -n+2 407228412.fasta | re -d "\n" | wc -c
-qrsh
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-cd Da
-cd Data/
-ls
-wc *.txt | "evolution" otoos10_new.txt 
-wc *.txt | sort "evolution" otoos10_new.txt 
-wc *.txt | sort -n "evolution" otoos10_new.txt 
-find . | evolution grep word otoos_new.txt
-grep -r evolution
-grep -r "evolution"
-grep -r "evolution" otoos10_new.txt
-grep -r "evolution" otoos10.txt
-grep -r "evolved" otoos10_new.txt 
-grep -r "evolved" otoos10.txt
-grep -r "natural selection" otoos10_new.txt
-grep -r "natural selection" otoos10.txt
-grep -r "Wallace" otoos10_new.txt
-grep -r "Wallace" otoos10.txt
-cd $HOME
-ls
-cd second-assignment-jordannholmes/
-ls
-nano
-ls
-mv For_Daniel_2.13.3\ Darwin\ Commands For_Daniel_Darwin_Commands
-ls
-nano For_Daniel_Darwin_Commands 
-nano For_Daniel_Darwin_Commands
-ls
-nano For_Daniel_find.txt 
-nano For_Daniel_grep.txt 
-nano For_Daniel_realData.txt 
-cd $HOME
-ls
-cd second-assignment-jordannholmes/
-ls
-pwd
-qrsh
-qrsh
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Data/
-ls
-cd $HOME
-ls
-cd second-assignment-jordannholmes/
-ls
-nano For_Daniel_Darwin_Commands 
-nano For_Daniel_F
-nano For_Daniel_find.txt 
-nano For_Daniel_grep.txt 
-nano For_Daniel_Wildcard.txt 
-nano For_Daniel_realData.txt 
-mv For_Daniel_realData.txt For_Daniel_realData_Temperature.txt
-ls
-cd $HOME
-cd
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-cd Data/
-ls
-mv otoos10_new.txt /u/home/class/c177/c177-12/second-assignment-jordannholmes
-cd $HOME
-cd second-assignment-jordannholmes/
-ls
-cd ../
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Sandbox/
-ls
-cd ../
-cd Data/
-ls
-cd fasta/
-ls
-nano For_Daniel_realData.txt 
-nano 
-head -n3 407228326.fasta
-wc -l *.fasta
-tial -n+2 4072288326.fasta
-tail -n+2 407228326.fasta
-tail -n+2 407228326.fasta | tr -d "\n"
-tail -n+2 407228326.fasta | tr -d "\n" | wc -c
-tail -n+2 407228412.fasta | tr -d "\n" | wc -c
-tai -n2 E.coli.fasta | tr -d "\n" \ wc -c
-trail -n+2 E.coli.fasta | tr -d "\n" | wc -c
-tail -N+2 E.coli.fasta | tr -d "\n" | wc -c
-tail n+2 E.coli.fasta | tr -d "\n" | wc -c
-tail -n+2 E.coli.fasta | tr -d "\n" | wc -c
-tail -n+2 407228326.fasta | tr -d "\n" | grep - o "ATGTACATA"
-tail -n+2 407228326.fasta | tr -d "\n" | grep -o "ATGTACATA"
-tail -n+2 E.coli.fasta |tr -d "\n" | grep-o ATC | wc -1
-tail -n+2 E.coli.fasta | tr -d "\n" | grep-o ATC | wc -l
-tail -n+2 E.coli.fasta |tr -d "\n" | grep -o ATC | wc -1
-tail -n+2 E.coli.fasta | tr -d "\n" | grep -o ATC | wc l
-tail -n+2 E.coli.fasta | tr -d "\n" | grep -o ATC | wc- l
-tail -n+2 E.coli.fasta | tr -d "\n" | grep -o ATC | wc -l
-tail -n+2 E.coli.fasta | tr -d "\n" | grep -o ATGC | wc -l
-tail -n+2 E.coli.fasta | re -d "\n" | grep -o [A,T] | wc -1
-tail -n+2 E.coli.fasta | re -d "\n" | grep -o [A,T] | wc -l
-tail -n+2 E.coli.fasta | tr -d "\n" | grep -o [A,T] | wc -l
-tail -n+2 E.coli.fasta | tr -d "\n" | grep -o [G,C]| wc -l
-history | tail -n 70 > For_Daniel_realDataFASTA.txt
-mv For_Daniel_realDataFASTA.txt /u/home/class/c177/c177-12/second-assignment-jordannholmes
-cd $HOME
-ls
-cd second-assignment-jordannholmes/
-ls
-mv For_Daniel_realData_Temperature.txt For_Daniel_realDataTemperature.txt
-ls
-mv Due_4-15-19.md.save.save Due_4-15-19.md.save
-ls
 ls -a
 module load git
 git add .
@@ -998,3 +852,149 @@ git add chr2.gtf
 git commit -m "first commit"
 git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
 git push -u origin master
+ls
+head less hg19.gtf 
+nano hg19.gtf 
+nano Split_GTF.sh 
+sh Split_GTF.sh hg19.gtf 
+ls -d chr*
+ls -d chr* Split_GTF.sh 
+nano Split_GTF.sh 
+head chr3_gtf/chr3.gtf
+grep -P "chr2\t" hg19.gtf chr2.gtf
+cd S
+cd Split_GTF.sh 
+ls
+mkdir dir_Chr2
+grep -P "chr2\t" $1 > dir_Chr2.gtf
+grep -P "chr2\t" $1 > dir_Chr2/chr2.gtf
+grep -P "chr2\t" hg19.gtf dir_Chr2
+cd dir_Chr2
+mkdir dir_Chr2.gtf
+grep -P "chr2\t" hg19.gtf dir_Chr2.gtf/
+ls
+rm dir_Chr2.gtf/
+rmdir dir_Chr2.gtf/
+ls
+grep -P "chr2\t" hg19.gtf chr2.gtf/
+grep -P "chr2\t" hg19.gtf > chr2.gtf/
+nano chr2.gtf 
+nano chr2.gtf
+
+nano chr2.gtf 
+nano chr2.gtf
+sh chr2.gtf 
+cd chr2.gtf 
+grep -P "chr2\t" hg19.gtf > < chr2.gtf
+grep -P "chr2\t" hg19.gtf > chr2.gtf
+cd ../
+grep -P "chr2\t" hg19.gtf > chr2.gtf
+cd dir_Chr2
+nano chr2.gtf 
+cd ../
+ls
+grep -P "chr2\t" $1 > dir_Chr2/chr2.gtf 
+grep -P "chr2\t" hg19.gtf > dir_Chr2/chr2.gtf 
+cd dir_Chr2/
+nano chr2.gtf 
+cd ../
+grep -P "chr21\t" hg19.gtf > dir_Chr21/chr21.gtf 
+grep -P "chr3\t" hg19.gtf > dir_Chr3/chr3.gtf 
+cd dir_Chr2
+nano chr2.gtf 
+cd ..
+nano dir_Chr3/
+cd dir_Chr3/
+nano chr3.gtf 
+cd ../
+cd dir dir_Chr21/
+cd dir_Chr21/
+nano chr21.gtf 
+cd ../
+ls -d chr
+ls -d chr*
+head chr21_gtf/chr21.gtf
+head dir_Chr21/chr21.gtf
+ls -d chr*
+head dir_Chr2/chr2.gtf
+head dir_Chr3/chr3.gtf
+ls
+nano dir_Chr2.gtf 
+rm dir_Chr2.gtf 
+ls
+pwd
+nano chr2.gtf 
+cd dir_Chr2/
+ls
+nano chr2.gtf 
+cd ..
+nano chr2.gtf 
+cd Split_GTF.sh 
+nano Split_GTF.sh 
+ls -a
+module load git
+git add .
+git commit -m "hg19.gtf"
+qrsh
+ls
+cd dir_Chr2
+ls
+pwd
+ls a
+ls -a
+module load git
+git add .
+git commit -m "dir_Chr2" 
+git commit -m "chr2.gtf"
+echo "# dir_Chr2" >> chr2.gtf 
+git init
+git add chr2.gtf 
+git commit -m "first commit"
+git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git push -u origin master
+cd ../
+ls
+cd dir_Chr2
+ls
+cd ../
+cd dir_Chr21/
+ls
+cd ../
+cd dir_Chr3/
+ls
+cd ../
+cd Ho
+cd Homework_Week4_Wed/
+pwd
+ls
+mv /u/home/class/c177/c177-12/Homework_Week4_Wed/chr21.gtf /u/home/class/c177/c177-12/dir_Chr21/
+mv /u/home/class/c177/c177-12/Homework_Week4_Wed/chr3.gtf /u/home/class/c177/c177-12/dir_Chr3/
+mv /u/home/class/c177/c177-12/Homework_Week4_Wed/hg19.gtf /u/home/class/c177/c177-12/
+mv /u/home/class/c177/c177-12/Homework_Week4_Wed/Split_GTF.sh /u/home/class/c177/c177-12/
+cd ../
+ls
+cd dir_Chr21
+ls
+cd ../
+cd dir_Chr2
+ls
+cd ../
+cd dir_Chr3
+ls
+cd ../
+ls -
+ls -a
+module load git
+git add .
+git commit -m "dir_Chr2"
+git commit -m "chr2.gtf"
+echo "# dir_Chr2" >> chr2.gtf 
+git init
+git add chr2.gtf 
+git commit -m "first commit"
+git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git push -u origin master
+git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git push -u origin master
+qsh
+qrsh
