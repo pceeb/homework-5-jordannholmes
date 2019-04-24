@@ -1,16 +1,3 @@
-ls
-ls -a
-module load git
-git add .
-git commit -m "second-assignment-jordannholmes"
-git commit -m "For_Daniel_Darwin_Commands"
-git init
-git add "For_Daniel_Darwin_Commands"
-git commit -m "first commit"
-git remote add origin https://github.com/pceeb/second-assignment-jordannholmes.git
-git push -u origin master
-qrsh
-ls
 cd second-assignment-jordannholmes/
 ls
 cd ../
@@ -998,3 +985,16 @@ git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.
 git push -u origin master
 qsh
 qrsh
+ls
+nano Split_GTF.sh 
+ls -a
+module load git
+git add .
+git commit -m "Split_GTF.sh" 
+echo "# Split_GTF.sh" 
+echo "# c177-12" >> Split_GTF.sh
+git init 
+git add Split_GTF.sh 
+git commit -m "first commit"
+git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git push -u origin master
