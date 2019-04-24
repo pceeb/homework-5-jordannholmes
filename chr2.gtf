@@ -998,3 +998,4 @@ chr2	hg18_knownGene_GnfAtlas2	exon	9594278	9594408	0.000000	-	.	gene_id "205745_
 chr2	hg18_knownGene_GnfAtlas2	exon	9600733	9600865	0.000000	-	.	gene_id "205745_x_at"; transcript_id "uc002qzu.1";
 chr2	hg18_knownGene_GnfAtlas2	exon	9613089	9613368	0.000000	-	.	gene_id "205745_x_at"; transcript_id "uc002qzu.1";
 chr2	hg18_knownGene_GnfAtlas2	exon	9546862	9548098	0.000000	-	.	gene_id "205745_x_at"; transcript_id "uc010ewy.1";
+# dir_Chr2
