@@ -14,3 +14,4 @@ cut -d $2 -f $3 $1 > $4
 # Command -f indicates what needs to kept, in this case $3
 # Will print the column in the new output file, in this case $4
  
+# week4_mon

@@ -1,386 +1,3 @@
-10
-10 2 19 22 6
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Sandbox/
-ls
-cd TestFind/
-ls
-sort 10
-sort 10 For_Daniel_find.txt 
-sort 10 Dir1
-qrsh
-ls
-cd second-assignment-jordannholmes/
-ls
-cd ../
-ls
-cd classdata/
-ls
-cd second-assignment-cdecesaris/
-ls
-cd ../
-cd introscicomp2014/
-ls
-cd unix
-cd UNIX
-ls
-cd Sandbox/
-ls
-cd TestWild/
-ls
-nano For_Daniel_Wildcard.txt 
-cd ../
-ls
-cd TestWild/
-ls
-ce For_Daniel_grep.txt 
-cd For_Danieil_grep.txt
-nano For_Daniel_grep.txt
-cd ../
-ls
-cd TestDirectory/
-ls
-cd ../
-ls
-cd TestWild/
-ls
-cd ../
-ls
-cd Data/
-ls
-cd $HOME
-ls
-nano my_file.txt
-cd second-assignment-jordannholmes/
-ls
-cd ../
-cd classdata/
-ls
-ls second-assignment-cdecesaris/
-cd $HOME
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Sandbox/
-ls
-mkdir TestFind
-cd TestFind/
-mkdir -p Dir1/Dir11/Dir111
-mkdir Dir2
-mkdir Dir3
-touch Dir1/File1.txt
-touch Dir1/File1.csv
-touch Dir1/File1.tex
-touvh Dir2/File2.txt
-touch Dir2/File2.txt
-touch Dir2/File2.csv
-touch Dir2/File2.tex
-touch Dir1/Dir11/Dir111/File111.txt
-touch Dir3/File3.txt
-find . -name "File1.txt"
-find . -name "*.txt"
-find . maxdepth 2 -name "*.txt"
-find . -maxdepth 2 -name ".txt"
-find . -maxdepth 2 -not -name "*.txt"
-find . -type d
-find . -type f -exec ls -s {} \: | sort -n | head -10
-history | tail -n 30 > For_Daniel_find.txt
-ls
-nano For_Daniel_find.txt 
-d $HOM
-cd $HOME
-ls
-cd classdata/
-ls
-cd second-assignment-cdecesaris/
-ls
-cd $HOME
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Data/
-ls
-cd fasta
-s
-ls
-nano For_Daniel_realData.txt 
-cd $HOME
-ls 
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Sandbox/
-ls
-cd ../
-ls
-cd Data/
-ls
-cd fasta/
-ls
-cd ../
-cd../
-cd ../
-cd second-assignment-jordannholmes/
-ls
-Due_4-19.md.save.save
-cd Due_4-15-19.md.save.save
-nano Due_4-15-19.md.save.save
-qrsh
-test_shell_script_<J_H<M_T>.sh
-mkdir test_shell_script_<J_H<M_T>.sh
-test_shell_script_<J_H>_<M_T>.sh
-mkdir test_shell_script_<J_H>_<M_T>.sh
-mkdit test_shell_scriptJH_MT.sh
-mkdir test_shell_scriptJH_MT.sh
-ls
-nano test_shell_scriptJH_MT.sh/
-ls
-ls test_shell_scriptJH_MT.sh/
-ls
-cp Exercise_Warmup ~/classdata/In_class/week3/my_first_scripts_for_PCEEB
-ls
-mv Exercise_Warmup Exercise_Warmup.sh
-cp Exercise_Warmup.sh ~/classdata/In_class/week3/my_first_scripts_for_PCEEB
-cp Exercise_Warmup.sh ~/classdata/In_class/Week3/my_first_scripts_for_PCEEB/
-ls
-cd classdata/
-ls
-cd In_class/
-cd Week3
-cd my_first_scripts_for_PCEEB/
-ls
-mv Exercise Warmup.sh test_shell_script_<JH>_<MT>.sh
-mv Exercise_Warmup.sh test_shell_script_<JH>_<MT>.sh
-mv Exercise_Warmup.sh test_shell_script_JH_MT.sh
-ls
-nano test_shell_script_JH_MT.sh 
-pwd
-sh /u/home/class/c177/c177-12/classdata/In_class/Week3/my_first_scripts_for_PCEEB
-sh test_shell_script_JH_MT.sh 
-nano test_shell_script_JH_MT.sh 
-sh /u/home/class/c177/c177-12/classdata/In_class/Week3/my_first_scripts_for_PCEEB
-sh test_shell_script_JH_MT.sh 
-nano test_shell_script_JH_MT.sh 
-sh /u/home/class/c177/c177-12/classdata/In_class/Week3/my_first_scripts_for_PCEEB
-sh test_shell_script_JH_MT.sh
-for i in ./*
-for i in ./*.sh; do bash $i
-My_pets name=Quincy
-My_pets_name=Quincey
-$My_pets_name
-echo $My_pets_name
-My_pets_species=dog
-echo $My_pets_species
-echo "I have $My_pets_species named $My_pets_name"
-cd ../
-ls
-cd ../
-ls
-cd Week3
-ls
-cd $HOME
-ls
-mkdir week3_mon
-cd week3_mon/
-nano mascots_1.sh
-sh mascots_1.sh
-nano mascots_1.sh 
-sh mascots_1.sh 
-nano mascots_1.sh 
-sh mascots_1.sh 
-nano mascots_1.sh 
-nano mascots_2.sh
-sh mascots_2.sh ~/classdata/Week3/UC_mascots.txt
-sh mascots_1.sh ~/classdata/Week3/UC_mascots.txt
-nano mascots_3.sh
-sh mascots_3.sh ~/classdata/Week3/UC_mascots.txt Los Angeles
-sh mascots_3.sh ~/classdata/Week3/UC_mascots.txt San
-nano mascots_3.sh 
-nano UC_mascots_txt
-sh UC_mascots_txt 
-nano UC_mascots_txt 
-sh UC_mascots_txt 
-nano UC_mascots_txt 
-sh UC_mascots_txt 
-nano UC_masc
-nano UC_mascots_txt 
-sh UC_mascots_txt 
-nano UC_mascots_txt 
-sh UC_mascots_txt 
-nano UC_mascots_txt 
-sh UC_mascots_txt 
-nano UC_mascots_txt 
-sh UC_mascots_txt 
-nano UC_mascots_txt 
-sh UC_mascots_txt 
-nano UC_mascots_txt 
-ls
-mv UC_mascots_txt UC_mascots.sh
-sh UC_mascots.sh ~/classdata/Week3/UC_mascots.txt 
-mv UC_mascots_txt UC_mascots.sh
-nano UC_mascots.sh 
-cd $HOME
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Data/
-ls
-cd fasta
-ls
-nano For_Daniel_realData.txt 
-cd ../
-ls
-wget http://www.gutenberg.org/files/1228/old/otoos10.txt
-ls
-qrsh
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Sandbox/
-ls
-cd TestDirectory/
-ls
-cd ../
-ls TEstf
-cd Testf
-cd Testfind
-cd TestFind/
-ls
-cd ..
-cd testW
-cd TestWild/
-ls
-cd $HOME
-ls
-cd classdata/
-s
-ls
-cd In_class/
-ls
-cd Week3
-;s
-ls
-cd ..
-cd ../
-cd second-assignment-cdecesaris/
-;s
-ls
-nano Due_4-15-19.md 
-cd ../
-cd Homework_data/
-ls
-cd ../
-cd Week3
-;s
-ls
-cd ../
-cd ..?
-cd ../
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-;s
-ls
-cd Sandbox/
-ls
-cd TestDirectory/
-ls
-cd ../
-cd TestFind/
-ls
-cd ../
-cd TestWild/
-ls
-cd TestFind/
-ls
-cd ..
-cd Testwild/
-ls
-cd ../
-cd../
-cd ../
-cd Data/
-ls
-cd ../
-ls
-cd second-assignment-jordannholmes/
-ls
-Due_4-15.save.save/
-nano Due_4-15-19.md.save.save 
-qrsh
-cd classdata/
-ls
-cd Homework_data/
-cd ./?
-./?
-cd ../
-cd second-assignment-jordannholmes/
-ls
-cd $HOME
-cd classdata/
-ls
-cd second-assignment-cdecesaris/
-;s
-ls
-nano Due_4-15-19.md 
-qrsh
-cd second-assignment-jordannholmes/
-ls
-nano Due_4-15-19.md.save.save
-qrsh
-cd classdata/
-ls
-cd second-assignment-cdecesaris/
-ls
-cd Due_4-15-19.md 
-nano Due_4-15-19.md 
-qrsh
-cd introscicomp2014/
-ls
-ls UNIX/
-ls SQL/
-cd Sandbox
-cd $HOME
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Sandbox/
-ls
-cd ~
-ls
-cd classdata/
-ls
-cd second-assignment-cdecesaris/
-ls
-nano Due_4-15-19.md 
-wc -1 *.fasta
-wc -l *.fasta
-cd ../
-ls
-cd second-assignment-cdecesaris/
-ls
-cd ../
-ls
-cd second-assignment-jordannholmes/
-pwd
-ls
-cd ../
-cd introscicomp2014/
 ls
 cd UNIX/
 ls
@@ -998,3 +615,386 @@ ls -a
 module load git
 git add .
 git commit "MorseAssignment.txt"
+qrsh
+ls
+cd Transcriptomes/
+ls
+cd ../
+cd Genes_example/
+ls
+cd ../
+cd classdata/
+cd
+ls
+cd classdata/
+cd Labs/
+cd Lab3/
+ls
+cd First_challenge/
+ls
+cd ../
+cd $HOME
+ls
+cd MorseAssignment.txt 
+nano MorseAssignment.txt 
+cd classdata/
+cd Homework_data/
+cd data-shell/
+cd data/
+ls
+nano morse.txt 
+morse_code_script_EC2.sh morse.txt J O R D A N
+morse_code_script_JH.sh morse.txt J O R D A N
+CD $HOME
+cd $HOME
+cd week3_mon/
+ls
+cd $HOME
+cd second-assignment-jordannholmes/
+ls
+cd $HOME
+ls
+cd classdata/
+ls
+cd second-assignment-cdecesaris/
+;s
+ls
+cd second-assignment-cdecesaris/
+ls
+cd ../
+cd Labs/
+ls
+cd challenge/
+ls
+cd ../
+cd Lab3
+ls
+cd $HOME
+cd classdata/
+cd Homework_data/
+cd data-shell/
+cd data/
+nano
+ls
+nano morse.txt 
+mkdir morse_code_script_JH.sh
+morse_code_script_JH.sh
+mkdir -p morse_code_script_JH.sh
+ls -a
+module load git
+git add .
+mv /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/data/morse.txt /u/home/class/c177/c177-12/classdata/ 
+cd $HOME
+ls
+ls -a
+module load git
+git add .
+git commit -m "c177-12"
+git commit -m "MorseAssignment.txt"
+echo "# c177-12" >> MorseAssignment.txt 
+git init
+git add MorseAssignment.txt 
+git commit -m "first commit"
+git remote add origin https://github.com/pceeb/lecthw3-assignment-jordannholmes.git
+git push -u origin master
+cd $HOME
+ls
+pwd
+mv /u/home/class/c177/c177-12/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Week3/
+cd classdata/
+cd Week3
+ls
+cd $HOME
+nano MorseAssignment.txt 
+mv /u/home/class/c177/c177-12/MorseAssignment.txt /u/home/class/c177/c177-12/classdata
+cd classdata/
+ls
+ls -a
+module load git
+git add .
+pwd
+mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/second-assignment-cdecesaris/
+mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/
+mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Week3
+mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/In_class/
+mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Labs/
+ls -a
+module load git
+git add .
+mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/week3_mon/
+cd $HOME
+cd week3_mon/
+;s
+ls
+module load git
+git add .
+git commit -m "week3_mon"
+git commit -m "MorseAssignment.txt"
+echo "# week2_mon" >> MorseAssignment.txt
+git init
+git add MorseAssignment.txt 
+git commit -m "first commit"
+git remote add origin https://github.com/pceeb/lecthw3-assignment-jordannholmes.git
+git push -u origin master
+cd MorseAssignment.txt 
+nano MorseAssignment.txt 
+qrsh
+ls
+cd week3_mon/
+ls
+ls -a
+module load git
+git add .
+git commit "week3_mon"
+pwd
+mv -Rohan's Birthday Gift - Dental Socks, Dewars, Bird Card
+mv /u/home/class/c177/c177-12/week3_mon/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/data/
+nano MorseAssignment.txt 
+mv /u/home/class/c177/c177-12/week3_mon/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/
+mv /u/home/class/c177/c177-12/week3_mon/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/
+cd $HOME
+ls
+cd classdata/
+ls
+ls -a
+module load git
+git add .
+mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/
+mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Labs/
+mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/data/
+scp /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/data/
+scp -r /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/data/
+qrsh
+cd classdata/
+cd Labs/
+cd Lab3/
+cd Second_challenge/
+ls
+less -F Example.bed 
+ls
+nano Only_genes_KM.txt
+cp Example.bed Only_genes_JH.txt
+ls
+nano Only_genes_
+nano Only_genes_JH.txt 
+nano Only_genes_KM.txt 
+nano Only_genes_JH.txt 
+sed 's/%/\t/g' Only_genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k4 | uniq
+nano Only_genes_JH.txt 
+nano Only_genes_KM.txt 
+sed 's/%/\t/g' Only_genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k2 | uniq
+sed 's/%/\t/g' Only_genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k2 | cut -f 4
+nano Only_genes_JH.txt 
+cut -f Only_genes_JH.txt 
+sort -n -k2 | cut -f 4
+sed 's/%/\t/g' Only_genes_JH.txt\ | sed 's/\.\./\t/g' | sort -n -k4  | cut -f 4
+sed 's/%/\t/g' Only_genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k4  | cut -f 4
+nano Only_genes_
+nano Only_genes_JH.txt 
+nano Only_genes_MM.txt 
+nano Only_genes_JH.txt 
+nano Only_genes_MM.txt 
+nano Only_genes_JH.txt 
+sed Only_genes_JH.txt uniq
+awk '$3 == "gene" { print $9 }' Only_genes_JH.txt | head | less -S
+nano Only_genes_JH.txt 
+awk '$3 == "gene" { print $3 }' Only_genes_JH.txt | head | less -S
+nano Only_genes_JH.txt 
+uniq Only_genes_JH.txt 
+nano Only_genes_JH.txt 
+nano Only_genes_KM.txt 
+nano Only_genes_JH.txt 
+nano Only_genes_KM.txt 
+nano Only_genes_JH.txt 
+nano Only_genes_MM.txt 
+ls
+rm Only_genes_JH.txt 
+ls
+cp Example.bed Only_genes_JH.txt
+ls
+nano Only_genes_JH.txt 
+nano Only_genes_MM.txt 
+nano Only_genes_KM.txt 
+sort -n -k2 | cut -f 4
+cat Only_genes_JH.txt | cut "" -f4
+cat Only_genes_JH.txt | cut -d "" -f4
+nano Only_genes_JH.txt 
+cut -d "" -f4 Only_genes_JH.txt 
+nano Only_genes_JH.txt 
+sed -e 's/  \+/\t/g' Only_genes_JH.txt| cut -f2 
+nano Only_genes_JH.txt 
+sed -e 's/  \+/\t/g' Only_genes_JH.txt| cut -f4 
+nano Only_genes_JH.txt 
+cut -c n4 Only_genes_JH.txt 
+nano Only_genes_JH.txt 
+awk '$1 == "chr01"' Only_genes_JH.txt | head |less -S
+awk '$1 == "chr01" { pring $1-3 }' Only_genes_JH.txt | head |less -S
+nano Only_genes_JH.txt 
+awk '$1 == "chr01" { print $1-3 }' Only_genes_JH.txt | head |less -S
+awk '$1 == "chr01" { print $1 } { print $2 } {print $3 }' Only_genes_JH.txt | head |less -S
+nano Only_genes_JH.txt 
+cut -d 't' -f 1,2,3 Only_genes_JH.txt 
+nano Only_genes_JH.txt 
+cut -d ' ' -f 1,2,3 Only_genes_JH.txt 
+nano Only_genes_JH.txt 
+s
+ls
+nano Only_genes_JH.txt 
+sort -n -k1 | cut -f 1,2,3
+sort -n -k1 | cut -f 1,2,3 Only_genes_JH.txt 
+nano Only_genes_JH.txt 
+cp 
+nano Only_genes_
+nano Only_genes_JH.txt 
+cp sort -n -k1 | cut -f 1,2,3 Example.bed Only_genes_JH.txt 
+nano Only_genes_
+nano Only_genes_JH.txt 
+sed 's/%/\t/g' Only_genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k2  | cut -f 1,2,3
+nano Only_genes_JH.txt 
+sort -n -k1 | cut -f 1,2,3 Only_genes_JH.txt 
+cp sort -n -k1 | cut -f 1,2,3 Only_genes_JH.txt 
+nano Only_genes_JH.txt 
+sort -n -k1 | cut -f 1,2,3 cp Only_genes_JH.txt 
+nano Only_genes_JH.txt 
+qrsh
+cd classdata/
+ls
+cd Homework_data/
+ls
+cd data-shell/
+ls
+qrsh
+qrsh
+ls
+cd week4_wed/
+ls
+sh JH_cut_stuff.sh 
+sh JH_rainbow1.sh 
+sh JH_rainbow2.sh 
+sh JH_rainbow.txt 
+qrsh
+cd week4_mon/
+ls
+nano JH_cut_stuff.sh 
+cd ../
+qrsh
+ls
+cd week4_mon/
+ls
+nano JH_cut_stuff.sh 
+nano JH_rainbow1.sh 
+nano JH_rainbow2.sh 
+nano JH_until8.sh 
+nano JH_rainbow2.sh 
+nano JH_rainbow1.sh 
+nano JH_cut_stuff.sh 
+nano JH_while8.sh
+nano JH_until8.sh 
+nano JH_while8.sh
+nano JH_until8.sh 
+nano JH_while8.sh
+nano JH_until8.sh 
+nano JH_while8.sh
+nano JH_until8.sh 
+nano JH_while8.sh
+sh JH_while8.sh 
+nano JH_while8.sh
+sh JH_while8.sh 
+nano JH_range8.sh
+sh JH_range8.sh 
+cd $HOME
+ls
+cd classdata/
+cd Homework_data/
+cd data-shell/
+cd molecules/
+ls
+nano JH_Week4_Monday.txt
+for datfile in *pdb; do  ls *.pdb; done
+nano JH_Week4_Monday.txt
+mkdir JH_Week4_Monday.txt
+cd $HOme
+cd week4_mon/
+nano JH_Week4_Monday.txt
+cd $home
+cd classdata/
+cd Homework_data/
+cd data-shell/
+cd molecules/
+pwd
+for datafile in *.pdb; do ls $datafile; done
+cd $Home
+cd week4_mon/
+nano JH_Week4_Monday.txt 
+cd /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/molecules
+for filename in c*; do ls $filename; done
+cd /u/home/class/c177/c177-12/week4_mon/
+ls
+nano JH_Week4_Monday.txt 
+cd /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/molecules
+for filename in *c*; do ls $filename; done
+cd /u/home/class/c177/c177-12/week4_mon/
+nano JH_Week4_Monday.txt 
+cd /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/molecules
+for alkanes in *.pdb; do echo $alkanes; cat $alkanes > alkanes.pdb; done
+for alkanes in *.pdb; do echo $alkanes; cat $alkanes > alkanes.pdb; done
+ls
+cd /u/home/class/c177/c177-12/week4_mon/
+nano JH_Week4_Monday.txt 
+for alkanes in *.pdb; do echo $alkanes; cat $alkanes > alkanes.pdb; done
+cd /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/molecules
+for datafile in *.pdb; do cat $datafile >> all.pdb; done
+ls
+for datafile in *.pdb; do cat $datafile >> all.pdb; done
+ls
+cd /u/home/class/c177/c177-12/week4_mon/
+nano JH_Week4_Monday.txt 
+ls -a
+module load git
+git add .
+git commit -m "week4_mon"
+nano alkanes.pdb 
+rm alkanes.pdb 
+ls
+git commit -m "JH_ct_stuff.sh"
+git commit -m "JH_cut_stuff.sh"
+echo "# week4_mon" >> JH_cut_stuff.sh
+git init
+git add JH_cut_stuff.sh
+git commit -m "first commit"
+qrsh
+cd classdata/
+ls
+pwd
+mv /u/home/class/c177/c177-12/classdata/hg19.gtf /u/home/class/c177/c177-12/
+ls
+cd ../
+ls
+head less hg19.gtf 
+cut -f 1 hg19.gtf | uniq
+grep "chr2" hg19.gtf | cut -f 1 | uniq
+grep -P "chr2\t" hg19.gtf | cut -f 1 | uniq
+sh Split_GTF.sh hg19.gtf
+nano hg19.gtf 
+nano Split_GTF.sh
+sh Split_GTF.sh 
+ls -d chr*
+cd Split_GTF.sh 
+nano Split_GTF.sh 
+sh Split_GTF.sh 
+sh Split_GTF.sh hg19.gtf 
+ls -d chr* Split_GTF.sh 
+ls -d chr* hg19.gtf 
+qrsh
+cd week4_wed/
+ls
+nano JH_rainbow.txt 
+nano JH_until8.sh 
+sh JH_until8.sh 
+cd ../
+mv week4_wed/ week4_mon
+ls
+cd week4_mon/
+ls
+nano JH_cut_stuff.sh 
+qrsh
