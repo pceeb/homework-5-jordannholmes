@@ -998,3 +998,4 @@ chr21	hg18_knownGene_GnfAtlas2	exon	29350519	29350744	0.000000	-	.	gene_id "2008
 chr21	hg18_knownGene_GnfAtlas2	exon	29354733	29354852	0.000000	-	.	gene_id "200873_s_at"; transcript_id "uc002ync.1";
 chr21	hg18_knownGene_GnfAtlas2	exon	29355445	29355609	0.000000	-	.	gene_id "200873_s_at"; transcript_id "uc002ync.1";
 chr21	hg18_knownGene_GnfAtlas2	exon	29355688	29355759	0.000000	-	.	gene_id "200873_s_at"; transcript_id "uc002ync.1";
+# dir_Chr21

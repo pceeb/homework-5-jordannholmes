@@ -1,188 +1,4 @@
 ls
-cd UNIX/
-ls
-cd Data/
-ls
-cd fasta
-ls
-wc -l *.fasta
-tail -n+2
-tail -n+2 407228326.fasta
-tail -n+2 407228326.fasta |tr -d "\n"
-tail -n+2 407228326.fasta | tr -d "\n" | wc -c
-tail -n+2 407228412.fasta | tr -d "\n" | wc -c
-tail -n+2 E.coli.fasta | tr -d "\n" | wc -c
-tail -n+2 407228326.fasta | tr -d "\n" | grep -o "ATGTACATA"
-tail -n+2 E.coli.fasta | tr -d "\n" | grep -o "ATGC" | wc -l
-tail -n+2 E.coli.fasta | tr -d "\n" | grep -o "[A,T] | wc -1
-tail -n+2 E.coli.fasta | tr -d "\n" | grep -o [A,T] | wc -1
-tail -n+2 E.coli.fasta | tr -d "\n" | grep -o [A,T] | wc -l
-tail -n+2 E.coli.fasta | tr -d "\n" | grep -o [G,C] | wc -l
-history | tail -n 70 > For_Daniel_realData.txt
-ls
-nano For_Daniel_realData.txt 
-cd ../
-ls
-nano otoos10.txt 
-head -n 264 otoos10.txt
-rm -i head 264 otoos10.txt 
-sed -i head 264 otoos10.txt 
-sed -i 1, 264 otoos10.txt 
-set -i 1 264d otoos10.txt 
-ls
-nano otoos10.txt 
-tail -n +13900 otoos10.txt > otoos10_new.txt
-ls
-nano otoos10_new.txt 
-wc -l otoos10
-cd fasta/
-ls
-cd ../
-ls
-cd $HOME
-ls
-cd second-assignment-jordannholmes/
-ls
-cd ../
-cd classdata/
-ls
-cd second-assignment-cdecesaris/
-ls
-cd ../
-ls
-cd second-assignment-jordannholmes/
-ls
-cd ../
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Data/
-ls
-pwd
-cd Temperatures/
-ls
-grep -n 1800 *csv | grep -w "TMAX" | grep -w "18000101
-
-grep -n 1800 *.csv | grep -w "TMAX" | grep -w "18000101
-
-nano 1800.csv
-grep $max 1800.csv 
-cut -f1 -d"," 1800.csv | sort -n| grep max
-ls
-cut -f1 -d"," 1800.csv | sort -n| head -1
-nano 1800.csv 
-cut -f1 -d"," 1800.csv | sort -n | max
-cd bash
-sort -n 1800.csv 
-sort -n 1800.csv | "TMIN,"
-sort -n 1800.csv | TMIN,
-sort -t 1800.csv 
-ls
-sort -t 1800.csv
-sort -t 180[0.3].csv
-qrsh
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Data/
-ls
-cd Temperatures/
-ls
-grep -n 1800 *.csv | grep -w "TMAX" | grep -w "18000101
-grep -n 1801 *.csv | grep -w "TMAX" | grep -w "18000101
-grep -n 180[0-3] *.csv | grep -w "180[0-3]0101, TMAX"
-nano 1800.csv 
-grep -n 180[0-3] *.csv | grep -w "180[0-3]0101, TMAX,"
-ls
-grep -n 180[0-3 *.csv | grep -w "180[0-3]0101, TMAX,"
-grep -n 180[0-3]*.csv | grep -w "180[0-3]0101, TMAX,"
-nano 1800.csv 
-grep 180[0-3] *.csv | grep -w "180[0-3]0101,TMAX,
-
-
-
-
-cd $HOME
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Sandbox/
-ls
-cd TestDirectory/
-ls
-cd ../
-cd TestFind
-ls
-nano For_Daniel_find.txt 
-pwd
-cd $HOME
-ls
-cd second-assignment-jordannholmes/
-ls
-pwd
-cd $HOME
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Sandbox/
-ls
-cd TestFind/
-ls
-mv For_Daniel_find.txt /u/home/class/c177/c177-12/second-assignment-jordannholmes
-cd $HOME
-ls
-cd second-assignment-jordannholmes/
-ls
-cd ../
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Sandbox/
-ls
-cd TestWild/
-ls
-mv For_Daniel_grep.txt /u/home/class/c177/c177-12/second-assignment-jordannholmes
-mv For_Daniel_Wildcard.txt /u/home/class/c177/c177-12/second-assignment-jordannholmes
-cd $HOME
-ls
-cd second-assignment-jordannholmes/
-ls
-rm -i Due_4-15-19.md
-ls
-nano Due_4-15-19.md.save
-nano Due_4-15-19.md.save.save 
-rm -i Due_4-15-19.md.save
-ls
-cd file_system.png 
-nano file_system.png 
-ls
-cd $HOME
-ls
-cd introscicomp2014/
-ls
-cd U
-cd UNIX/
-cd Data/
-ls
-cd Temperatures/
-ls
-grep -n 1800 *.csv | grep -w "TMAX" | grep -w "18000101
-grep -n 180[0-3] *csv | grep -w "180[0-3]0101,TMAX"
-grep -n 180[0-3] *csv | grep -w "180[0-3]0101,TMAX"
-history | tail -n 70 > For_Daniel_realData.txt
-ls
-nano For_Daniel_realData.txt 
-mv For_Daniel_realData.txt /u/home/class/c177/c177-12/second-assignment-jordannholmes
-cd $HOME
-ls
 cd second-assignment-jordannholmes/
 ls
 For_Daniel_re
@@ -998,3 +814,187 @@ cd week4_mon/
 ls
 nano JH_cut_stuff.sh 
 qrsh
+qrsh
+nano Week3_Mini-Challenge_JH.sh
+ls
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh
+qrsh
+qrsh
+pwd
+ls
+mv /u/home/class/c177/c177-12/dir_Chr2/chr2.gtf /u/home/class/c177/c177-12/dir_Chr21/
+mv /u/home/class/c177/c177-12/dir_Chr3/chr3.gtf /u/home/class/c177/c177-12/dir_Chr21/
+mv /u/home/class/c177/c177-12/Split_GTF.sh /u/home/class/c177/c177-12/dir_Chr21/
+cd dir_Chr21/
+ls
+cd ../
+mv /u/home/class/c177/c177-12/hg19.gtf /u/home/class/c177/c177-12/dir_Chr21/
+cd dir_Chr21/
+ls
+nano chr21.gtf 
+nano chr3.gtf 
+nano chr2.gtf 
+ls -a
+module load git
+git add .
+git commit -m "dir_Chr21"
+git commit -m "chr21.gtf"
+echo "# dir_Chr21" >> chr21.gtf
+git init
+git add chr21.gtf
+git commit -m "first commit"
+git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git put -u origin master
+git push -u origin master
+pwd
+cd ../
+ls
+mkdir Homework_Week4_Wed
+mv /u/home/class/c177/c177-12/dir_Chr21/chr21.gtf /u/home/class/c177/c177-12/Homework_Week4_Wed/
+mv /u/home/class/c177/c177-12/dir_Chr21/chr3.gtf /u/home/class/c177/c177-12/Homework_Week4_Wed/
+mv /u/home/class/c177/c177-12/dir_Chr21/chr2.gtf /u/home/class/c177/c177-12/Homework_Week4_Wed/
+mv /u/home/class/c177/c177-12/dir_Chr21/hg19.gtf /u/home/class/c177/c177-12/Homework_Week4_Wed/
+mv /u/home/class/c177/c177-12/dir_Chr21/Split_GTF.sh /u/home/class/c177/c177-12/Homework_Week4_Wed/
+cd Homework_Week4_Wed/
+ls
+ls -a
+module load git
+git add .
+git commit -m "Homework_Week4_Wed"
+git commit -m "Split_GTF.sh"
+echo "Homework_Week4_Wed" >> Split_GTF.sh
+git init
+git add Split_GTF.sh 
+git commit -m "first commit"
+git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git push -u origin master
+git pull Split_GTF.sh 
+cd ../
+ls
+cd dir_Chr2
+ls
+pwd
+cd ../
+cd Homework_Week4_Wed/
+pwd
+mv /u/home/class/c177/c177-12/Homework_Week4_Wed/chr2.gtf /u/home/class/c177/c177-12/dir_Chr2
+cd ../
+cd dir_Chr2
+ls
+ls -a
+module load git
+git add .
+git commit -m "dir_Chr2"
+git commit -m "chr2.gtf"
+echo "# dir_Chr2" >> chr2.gtf
+git init
+git add chr2.gtf 
+git commit -m "first commit"
+git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git push -u origin master

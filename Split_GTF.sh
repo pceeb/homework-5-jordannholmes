@@ -11,3 +11,4 @@ grep -P "chr21\t" hg19.gtf > dir_Chr21/chr21.gtf
 #Within each directory is a .gtf file that corresponds to each chromosome.
 #Grep -P prints the lines that folow the pattern, name of the chromosome in the hg19.gtf file.
 
+Homework_Week4_Wed
