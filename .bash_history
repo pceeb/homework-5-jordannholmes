@@ -1,125 +1,3 @@
-cd second-assignment-jordannholmes/
-ls
-cd ../
-ls
-cd introscicomp2014/
-ls
-cd UNIX/
-ls
-cd Data/
-ls
-cd Temperatures/
-ls
-grep -i -w "TMAX" 1800.csv | grep "1800101" | cut -d "," -f4 | sort -n | tail -n1
-grep -i -w "TMAX" 1800.csv | grep "1800105" | cut -d "," -f4 | sort -n | tail -n1
-grep -i -w "TMAX" 1800.csv | grep "1800205" | cut -d "," -f4 | sort -n | tail -n1
-history | tail -n 10 > For_Daniel_TemperatureBonus.txt
-ls
-pwd
-mv For_Daniel_TemperatureBonus.txt /u/home/class/c177/c177-12/second-assignment-jordannholmes/
-cd ../
-cd $HOME
-ls
-cd second-assignment-jordannholmes/
-ls
-nano For_Daniel_TemperatureBonus.txt 
-ls -a
-module load git
-git add .
-git commit -m "second-assignment-jordannholmes"
-git commit -m For_Daniel_TemperatureBonus.txt 
-echo "# second-assignment-jordannholmes" >> For_Daniel_TemperatureBonus.txt 
-git init
-git add For_Daniel_TemperatureBonus.txt git commit -m "first commit"
-git remote add origin https://github.com/pceeb/second-assignment-jordannholmes.git
-git push -u origin master
-cd ../
-ls
-cd introscicomp2014/
-ls
-qrsh
-ls
-cd Genes_example/
-ls
-nano All_Genes.txt 
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k7  | cut -f 1,7
-nano Sort_All_Genes_JH.txt
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k7  | cut -f 1,7
-ls
-sed 's/%/\t/g' Table_sed_sort_chop.txt | sed 's/\.\./\t/g' | sort -n -k4  | cut -f 2,4
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k7  | cut -f 1,7
-cd Individual_genes/
-ls
-cd ../
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k7  | cut -f 1,7
-cd Individual_genes/
-nano Sort_All_Genes_JH.txt
-ls
-mkdir Sort_All_Genes_JH.txt
-ls
-rm Sort_All_Genes_JH.txt/
-rmdir Sort_All_Genes_JH.txt/
-ls
-mkdir Sort_All_Genes.txt
-cd Sort_All_Genes.txt/
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k7  | cut -f 1,7
-cd ../
-rmdir Sort_All_Genes_JH.txt/
-ls
-rmdir Sort_All_Genes.txt/
-ls
-nano Sort_All_Genes.txt
-ls
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k7  | cut -f 1,7
-sed 's/%/\t/g' Sort_All_Genes.txt | sed 's/\.\./\t/g' | sort -n -k7  | cut -f 1,7
-mv Sort_All_Genes.txt Sort_All_Genes_JH.txt
-ls
-cd ../
-ls
-nano Table_sed
-nano Table_sed_sort_chop.txt 
-nano Sort_All_Genes_JH.txt
-cp All_Genes.txt Sort_All_Genes_JH.txt
-ls
-nano Sort_All_Genes_JH.txt 
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k7  | cut -f 1,7
-ls
-cd Individual_genes/
-ls
-rmdir Sort_All_Genes_JH.txt 
-ls
-rm Sort_All_Genes_JH.txt 
-ls
-cd ../
-ls
-nano Sort_All_Genes_JH.txt 
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k6  | cut -f 1,6
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k7  | cut -f 1,7
-nano All_Genes.txt 
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k13  | cut -f 1,13
-nano All_Genes.txt 
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k11  | cut -f 1,11
-nano All_Genes.txt 
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k11 | uniq
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k7 | uniq
-sed 's/%/\t/g' Sort_All_Genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k11  | cut -f 1,11
-sed -i 's/%/\t/g' Sort_All_Genes_JH.txt | sed -i 's/\.\./\t/g' | sort -n -k11  | cut -f 1,11
-nano Sort_All_Genes_JH.txt 
-sed -i 's/%/\t/g' Sort_All_Genes_JH.txt | sed -i 's/\.\./\t/g' | sort -n -k11 | cut -f 1,11
-sed -i 's/%/\t/g' Sort_All_Genes_JH.txt | sed -i 's/\.\./\t/g' | cut -f 1,11
-qrsh
-ls
-cd MorseAssignment.txt 
-ls
-nano MorseAssignment.txt 
-qrsh
-ls
-cd Transcriptomes/
-ls
-cd ../
-ls
-cd Genes_example/
-ls
 mv All_Genes.txt All_genesJH.txt
 ls
 cd .//
@@ -998,3 +876,125 @@ git add Split_GTF.sh
 git commit -m "first commit"
 git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
 git push -u origin master
+qrsh
+module load python
+python --version
+python
+qrsh
+ls
+mkdir JH_week4_inclass.txt
+nano JH_week4_inclass.txt/
+dm JH_week4_inclass.txt/
+rm JH_week4_inclass.txt/
+rkdir JH_week4_inclass.txt/
+rmdir JH_week4_inclass.txt/
+ls
+nano JH_Week4_Inclass.txt 
+pwd
+mv /u/home/class/c177/c177-12/JH_Week4_Inclass.txt /u/home/class/c177/c177-i0/classdata/In_class/Week4/Wednesday
+cd classdata/
+cd In_class/
+cd Week
+cd cd Week4/
+ls
+cd Week4
+cd Wednesday/
+ls
+nano JH_Week4_Inclass.txt 
+ls
+cd $HOME
+ls
+nano Split_GTF.sh 
+ls -a
+module load git
+git add Split_GTF.sh 
+git commit "Split_GTF.sh" 
+qrsh
+qrsh
+ls
+ls -a
+git add .
+git commit -m "dir_Chr2"
+git commit -m "chr2.gtf"
+echo "# dir_Chr2" >> chr2.gtf 
+git init
+git add chr2.gtf 
+git commit -m "first commit"
+git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git push -u origin master
+$1="sun"
+$1='sun'
+str1="sun"
+str2="shine"
+str3=$str1$str2
+echo $str3
+ls
+cd week4_mon/
+ls
+nano JH_Week4_Monday.txt 
+cd $HOME
+module load git
+git config --global core.editor "nano"
+git pull
+module load git
+git add .
+cd $HOME
+ls
+pwd
+mv /u/home/class/c177/c177-12/Split_GTF.sh /u/home/class/c177/c177-12/Homework_Week4_Wed/
+cd Homework_Week4_Wed/
+ls
+module load git
+git add .
+git commit -m "Homework_Week4_Wed"
+git commit -m "Split_GTF.sh" 
+echo "# Homework_Week4_Wed" >> Split_GTF.sh 
+git init
+git add Split_GTF.sh 
+git commit "first commit"
+git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git push -u origin master
+git add .
+git commit -m "Split_GTF.sh" 
+git push -u origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+cd $HOME
+ls
+cd Homework_Week4_Wed/
+ls
+ls -a
+cd $HOME
+ls
+git clone https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+ls
+pwd
+cp /u/home/class/c177/c177-12/Homework_Week4_Wed/Split_GTF.sh /u/home/class/c177/c177-12/lecthw4-assignment-jordannholmes/
+cd lecthw4-assignment-jordannholmes/
+ls
+module load git
+git add .
+git commit -m "lecthw4-assignment-jordannholmes"
+git commit -m "Split_GTF.sh" 
+echo "# lecthw4-assignment-jordannholmes" >> Split_GTF.sh 
+git init
+git add Split_GTF.sh 
+git commit -m "first commit"
+git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git push -u origin master
+qrsh
+ls
+rmdir introscicomp2014/
+rm introscicomp2014/
+nano Script.sh 
+cd classdata/
+ls
+cd Labs/
+ls
+cd Lab4/
+ls
+cd Mini_challenge/
+ls
+cd $HOME
+ls
+cd Week3_Mini-Challenge_JH.sh 
+ls
+nano Week3_Mini-Challenge_JH.sh 

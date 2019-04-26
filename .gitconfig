@@ -4,3 +4,5 @@
 [credential]
 	helper = cache
 	helper = cache
+[core]
+	editor = nano
