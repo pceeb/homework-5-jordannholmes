@@ -1,59 +1,3 @@
-mv All_Genes.txt All_genesJH.txt
-ls
-cd .//
-cd ../
-ls
-cd classdata/
-ls
-cd Labs/
-cd Lab3/
-ls
-cd First_challenge/
-ls
-cd ../
-cd Second_challenge/
-ls
-ls transcriptomeJH.gtf 
-nano transcriptomeJH.gtf 
-nano transcriptomeMT.gtf 
-nano transcriptomeKM2.gtf 
-qrsh
-ls
-cd classdata/
-cd Labs/
-cd Lab3/
-cd First_challenge/
-ls
-nano Sort_All_Genes_MT.txt 
-nano Sort_All_Genes_KM.txt 
-nano Sort_All_Genes_IAngeles.txt
-cd ../
-ccd $HOME
-cd $HOME
-ls
-cd Transcriptomes/
-;s
-ls
-pwd
-nano transcriptomeJH.gtf 
-cd $HOME
-ls
-cd classdata/
-cd Labs/
-cd Lab3/
-cd First_challenge/
-ls
-nano transcriptomeMT.gtf 
-nano transcriptomeKM2.gtf 
-nano transcriptomeMT.gtf 
-cd $HOME
-ls
-cd classdata/
-cd Labs/
-cd Lab3/
-cd First_challenge/
-ls
-cd $HOME
 cd Transcriptomes/
 ls
 nano transcriptomeJH.gtf 
@@ -998,3 +942,59 @@ ls
 cd Week3_Mini-Challenge_JH.sh 
 ls
 nano Week3_Mini-Challenge_JH.sh 
+qrsh
+ls
+rmdir Transcriptomes/
+rm Transcriptomes/
+rm number_of_exons_by_gene.txt 
+cd classdata/
+ls
+cd Labs/
+ls
+cd Lab4
+ls
+cd Mini_challenge/
+ls
+cd $HOME
+nano Week3_Mini-Challenge_JH.sh 
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh 
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh 
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh 
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh 
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh 
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh 
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh 
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh 
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh 
+sh Week3_Mini-Challenge_JH.sh 
+nano Week3_Mini-Challenge_JH.sh 
+mv Week3_Mini-Challenge_JH.sh Week4_Mini-Challenge_JH.sh 
+ls
+git clone https://github.com/pceeb/lab4-challenges-jordannholmes.git
+ls -a
+module load git
+git add .
+git commit -m "Week4_Mini-Challenge_JH.sh" 
+git init
+git add Week4_Mini-Challenge_JH.sh 
+git commit -m "first commit"
+git remote add origin https://github.com/pceeb/lab4-challenges-jordannholmes.git
+git push -u origin master
+ls
+git clone https://github.com/pceeb/lab4-challenges-jordannholmes.git
+module load git
+git add .
+git commit -m "Week4_Mini-Challenge_JH.sh" 
+git init
+git add Week4_Mini-Challenge_JH.sh 
+git commit -m "first commit"
+git push Week4_Mini-Challenge_JH.sh 
