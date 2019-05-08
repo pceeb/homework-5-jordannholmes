@@ -1,0 +1,22 @@
+1. If you wanted to reuse this program for a file that had 17 headers lines, what line of code would you change in our program?
+
+ Write the line of code that you will replace here: if LineNumber > 0 
+	This skips the first line.
+
+ What will be the new code?
+
+ Write the new code here: if LineNumber > 16
+	This skips the first 17 lines.
+
+2. What would happen if we don’t included import sys in our program?
+
+ Write you answer here: If we do not include 'import sys' into out program, the program will not recognize the variables that we have identified in the script. An error message should be expected. This is under the assumption that 'sys' has not been defined.
+
+3. Let’s suppose that the third file that the user provides as input has only one column. What error message will be generated?
+
+ Write you answer here: "Line # not XY format in file #" will be printed.
+
+4. Our program split lines of input files (except the first file) into elements that are tab delimitated. However, data could be split by , or many other characters. In this case is a good idea to define a new variable that takes the delimiter provide by the user. Using what you learn about sys.argv in this class`. Write a variable that reads a delimiter (e.g ',') provided as the first input file.
+
+ Write your code here: delim=sys.argv[8]
+		       ElementList = Line.split('\delim')
