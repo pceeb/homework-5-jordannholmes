@@ -1,1000 +1,1000 @@
-cd Transcriptomes/
 ls
-nano transcriptomeJH.gtf 
+nano Week_5_Wed.py
+python Week_5_Wed.py
+nano Week_5_Wed.sh
+sh Week_5_Wed.sh 
+nano Week_5_comment_block.py
+python Week_5_comment_block.py
+ls
+nano dictionary.py
+python Dictionary.py
+python dictionary.py
+nano dictionary.py
+python dictionary.py
+nano dictionary.py 
+python dictionary.py
+nano dictionary.py 
+python dictionary.py
+nano dictionary.py 
+python dictionary.py
+nano dictionary.py 
+python dictionary.py
+nano dictionary.py 
+python dictionary.py
+nano dictionary.py 
+python dictionary.py
+ls
+import numpy
+nano libs_and_data.py
+ls
 pwd
-mv /u/home/class/c177/c177-12/Transcriptomes/transcriptomeJH.gtf /u/home/class/c177/c177-12/classdata/Labs/Lab3/First_challenge/
-cd $HOME
+cp /u/home/class/c177/c177-i0/classdata/In_class/Week5/Wednesday/data/inflammation-01.csv /u/home/class/c177/c177-12/JH_Week5_Wednesday
 ls
-cd classdata/
-cd Labs/
-bd Lab3/
-cd Lab3/
-cd First_challenge/
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py 
+python libs_and_data.py 
+nano libs_and_data.py
+python libs_and_data.py 
+nano subset1_ugly.txt
 ls
-cd transcriptomeJH.gtf
-nano transcriptomeJH.gtf 
-cd ../
+nano subset1_cleaner.txt
+nano subset1_ugly.txt
+python subset1_ugly.txt 
+rm subset1_cleaner.txt 
+rm subset1_ugly.txt 
 ls
-cd Second_challenge/
+nano libs_and_data.py 
+python libs_and_data.py 
 ls
-nano transcriptomeJH.gtf 
-cd $HOME
+cd subset1_cleaner.txt 
+nano subset1_cleaner.txt 
+nano subset1_ugly.txt 
 ls
-cd Transcriptomes/
-ls
-cd $HOME
-ls
-cd Genes_example/
-ls
-cd Sort_All_Genes_JH.txt
-nano Sort_All_Genes_JH.txt 
 pwd
-mv /u/home/class/c177/c177-12/Genes_example/Sort_All_Genes_JH.txt /u/home/class/c177/c177-12/classdata/Labs/Lab3/First_challenge/
 cd $HOME
-ls
+ccd classdata/
 cd classdata/
-cd Labs/
-cd Lab3/
-cd First_challenge/
+cd In_class/
+cd Week5
+cd Wednesday/
 ls
-nano Sort_All_Genes_MT.txt 
-nano Sort_All_Genes_JH.txt 
+pwd
+mv /u/home/class/c177/c177-12/JH_Week5_Wednesday /u/home/class/c177/c177-12/classdata/In_class/Week5/Wednesday
+ls
+cd JH_Week5_Wednesday/
+ls
+cd ../
+cd JB_Week5_Wednesday/
+ls
+cd ../
+cd KG_week5_Wednesday/
+ls
+cd ../
+cd KM_Week5_Wednesday/
+ls
+nano write_text.txt 
+cd ../
+cd LC_Week5_Wednesday/
+ls
+cd ../
+cd MM_Week5_Wednesday/
+ls
+cd ../
+cd MT_Week5_Wednesday/
+ls
+cd I_wrote_a_text_file_in_python.txt 
+nano I_wrote_a_text_file_in_python.txt 
+cd ../
+cd JH_Week5_Wednesday/
+ls
+nano libs_and_data.py 
+ls
+python libs_and_data.py 
 ls
 cd ../
 ls
-STRAT 
-cd Second_challenge/
-ls
-rmdir transcriptomeJH.gtf 
-rm transcriptomeJH.gtf 
-ls
-cd ../
-cd First_challenge/
-ls
-cd ../
-cd Second_challenge/
-ls
-nano Only_genes_KM.txt 
-cd ../
-cd First_challenge/
-ls
-cd $HOME
-ls
-cd MorseAssignment.txt 
-nano MorseAssignment.txt 
-cd classdata/
-cd Homework_data/
-cd data-shell/
-cd data/
-cd morse.txt 
-nano morse.txt 
-morse_code_script_JH.sh morse.txt J O R D A N
-ls
-cd morse.txt 
-nano morse.txt 
-cd $HOME
-nano MorseAssignment.txt 
-name="J O R D A N"; for i in $name; do code=$( grep $i morse.txt) ;printf "$code";done
-cd classdata/
-cd Homework_data/
-cd data-shell/
-cd data/
-ls
-nano morse.txt
-name="J O R D A N"
-for i in $name; do code=$( grep $i morse.txt); printf "$code"; done
-ls
-nano morse.txt 
-morse_code_scriptJH.sh morse.txt J O R D A N
-cd $HOME
-ls
-cd MorseAssignment.txt 
-nano MorseAssignment.txt 
-ls -a
-module load git
-git add .
-git commit "MorseAssignment.txt"
 qrsh
-ls
-cd Transcriptomes/
+cd JH_Week6_Monday/
 ls
 cd ../
+ls
+rm dir_Chr2
+cd dir_Chr2
+ls
+cd ../
+rm -rf dir_Chr2
+rm -rf dir_Chr21
+rm -rd dir_Chr3/
+ls
+cd curriculum-markdown/
+ls
+cd ../
+rm -rf curriculum-markdown/
+cd README.cd/
+ls
+cd ../
+rm -rf README.cd/
 cd Genes_example/
 ls
 cd ../
-cd classdata/
-cd
-ls
-cd classdata/
-cd Labs/
-cd Lab3/
-ls
-cd First_challenge/
+cd introscicomp2014/
 ls
 cd ../
-cd $HOME
+cd test_shell_scriptJH_MT.sh/
 ls
-cd MorseAssignment.txt 
-nano MorseAssignment.txt 
-cd classdata/
-cd Homework_data/
-cd data-shell/
-cd data/
+cd ../
+rm -rf test_shell_scriptJH_MT.sh/
 ls
-nano morse.txt 
-morse_code_script_EC2.sh morse.txt J O R D A N
-morse_code_script_JH.sh morse.txt J O R D A N
-CD $HOME
-cd $HOME
-cd week3_mon/
+nano hg19.gtf 
+cd Hofffman2_JH_MT.txt 
+nano Hofffman2_JH_MT.txt 
+rm Hofffman2_JH_MT.txt 
+ls
+cd lecture_1/
+ls
+cd syllabus/
+ls
+cd ../
+cd../
+cd ../
+cd first-assignment-jordannholmes/
+ls
+cd Labs/
+ls
+cd W1/
 ls
 cd $HOME
+rm -rf first-assignment-jordannholmes/
+ls
 cd second-assignment-jordannholmes/
 ls
-cd $HOME
-ls
-cd classdata/
-ls
-cd second-assignment-cdecesaris/
-;s
-ls
-cd second-assignment-cdecesaris/
+cd ../
+cd eeb-177/
 ls
 cd ../
-cd Labs/
+cd JH_Week6_Monday/
 ls
-cd challenge/
+python script.py LED* > Output.txt
+python Mergefiles.py LED* > Output.txt
+less Output.txt
+nano Mergefiles.py 
+python Mergefiles.py 
+qrsh
+ls
+qrsh
+cd JH_Week6_Monday/
 ls
 cd ../
-cd Lab3
+nano JH_Week6_Monday_InClassAssignment
 ls
-cd $HOME
+mv JH_Week6_Monday_InClassAssignment JH_Week6_Monday_InClassAssignment.txt
+ls
+cd FinalProject/n
+cd FinalProject/
+ls
+cd README_Week5.md 
+nano README_Week5.md 
+ls
+pwd
+cd FinalProject/
+ls
+cd ../
+rm -rf /u/home/class/c177/c177-12/FinalProject
+ls
+cd ../
+ls
+cd classdata 
 cd classdata/
-cd Homework_data/
-cd data-shell/
-cd data/
-nano
+mkdir FinalProject
 ls
-nano morse.txt 
-mkdir morse_code_script_JH.sh
-morse_code_script_JH.sh
-mkdir -p morse_code_script_JH.sh
+cd FinalProject/
+mkdir README_Week5.md
+ls
+rm -rf README_Week5.md/
+ls
+nano README_Week5.md
+ls
+nano README_Week6.md
+git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
+module load git
+ls -a
+git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
+ls -a
+git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
+qrsh
+ls
+nano JH_Week6_Monday_InClassAssignment.txt 
+cd FinalProject/
+ls
+cd README_Week6.md 
+nano README_Week6
+nano README_Week6.md 
+git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
 ls -a
 module load git
-git add .
-mv /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/data/morse.txt /u/home/class/c177/c177-12/classdata/ 
-cd $HOME
 ls
 ls -a
-module load git
 git add .
-git commit -m "c177-12"
-git commit -m "MorseAssignment.txt"
-echo "# c177-12" >> MorseAssignment.txt 
-git init
-git add MorseAssignment.txt 
-git commit -m "first commit"
-git remote add origin https://github.com/pceeb/lecthw3-assignment-jordannholmes.git
+git commit -m "FinalProject"
 git push -u origin master
-cd $HOME
-ls
-pwd
-mv /u/home/class/c177/c177-12/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Week3/
-cd classdata/
-cd Week3
-ls
-cd $HOME
-nano MorseAssignment.txt 
-mv /u/home/class/c177/c177-12/MorseAssignment.txt /u/home/class/c177/c177-12/classdata
-cd classdata/
-ls
 ls -a
 module load git
-git add .
-pwd
-mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/second-assignment-cdecesaris/
-mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/
-mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Week3
-mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/In_class/
-mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Labs/
-ls -a
-module load git
-git add .
-mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/week3_mon/
-cd $HOME
-cd week3_mon/
-;s
 ls
+ls -a
+git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
 module load git
 git add .
-git commit -m "week3_mon"
-git commit -m "MorseAssignment.txt"
-echo "# week2_mon" >> MorseAssignment.txt
-git init
-git add MorseAssignment.txt 
-git commit -m "first commit"
-git remote add origin https://github.com/pceeb/lecthw3-assignment-jordannholmes.git
+git commit -m "FinalProject"
 git push -u origin master
-cd MorseAssignment.txt 
-nano MorseAssignment.txt 
 qrsh
 ls
-cd week3_mon/
+nano JH_Week6_Monday_InClassAssignment.txt 
+ls -a
+pwd
+mv /u/home/class/c177/c177-12/JH_Week6_Monday_InClassAssignment.txt /u/home/class/c177/c177-12/JH_Week6_Monday
+cd JH_Week6_Monday/
+ls
+nano Output.txt 
+mv /u/home/class/c177/c177-12/JH_Week6_Monday/JH_Week6_Monday_InClassAssignment.txt /u/home/class/c177/c177-12/
+cd ../
+ls
+mkdir JH_Week6_Monday_InClassAssignment
+mv /u/home/class/c177/c177-12/JH_Week6_Monday_InClassAssignment.txt  /u/home/class/c177/c177-12/JH_Week6_Monday_InClassAssignment
+cd JH_Week6_Monday_InClassAssignment/
 ls
 ls -a
 module load git
-git add .
-git commit "week3_mon"
-pwd
-mv -Rohan's Birthday Gift - Dental Socks, Dewars, Bird Card
-mv /u/home/class/c177/c177-12/week3_mon/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/data/
-nano MorseAssignment.txt 
-mv /u/home/class/c177/c177-12/week3_mon/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/
-mv /u/home/class/c177/c177-12/week3_mon/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/
-cd $HOME
-ls
-cd classdata/
-ls
 ls -a
-module load git
+git clone https://github.com/pceeb/in-class-week6-monday-jordannholmes.git
+qrsh
+ls
+cd JH_Week6_Monday
+ls
+cd ../
+cd JH_Week6_Monday_InClassAssignment/
+ls
+cd JH_Week6_Monday_InClassAssignment.txt 
+nano JH_Week6_Monday_InClassAssignment.txt 
+git clone https://github.com/pceeb/in-class-week6-monday-jordannholmes.git
 git add .
-mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/
-mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Labs/
-mv /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/data/
-scp /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/data/
-scp -r /u/home/class/c177/c177-12/classdata/MorseAssignment.txt /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/data/
-qrsh
-cd classdata/
-cd Labs/
-cd Lab3/
-cd Second_challenge/
-ls
-less -F Example.bed 
-ls
-nano Only_genes_KM.txt
-cp Example.bed Only_genes_JH.txt
-ls
-nano Only_genes_
-nano Only_genes_JH.txt 
-nano Only_genes_KM.txt 
-nano Only_genes_JH.txt 
-sed 's/%/\t/g' Only_genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k4 | uniq
-nano Only_genes_JH.txt 
-nano Only_genes_KM.txt 
-sed 's/%/\t/g' Only_genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k2 | uniq
-sed 's/%/\t/g' Only_genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k2 | cut -f 4
-nano Only_genes_JH.txt 
-cut -f Only_genes_JH.txt 
-sort -n -k2 | cut -f 4
-sed 's/%/\t/g' Only_genes_JH.txt\ | sed 's/\.\./\t/g' | sort -n -k4  | cut -f 4
-sed 's/%/\t/g' Only_genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k4  | cut -f 4
-nano Only_genes_
-nano Only_genes_JH.txt 
-nano Only_genes_MM.txt 
-nano Only_genes_JH.txt 
-nano Only_genes_MM.txt 
-nano Only_genes_JH.txt 
-sed Only_genes_JH.txt uniq
-awk '$3 == "gene" { print $9 }' Only_genes_JH.txt | head | less -S
-nano Only_genes_JH.txt 
-awk '$3 == "gene" { print $3 }' Only_genes_JH.txt | head | less -S
-nano Only_genes_JH.txt 
-uniq Only_genes_JH.txt 
-nano Only_genes_JH.txt 
-nano Only_genes_KM.txt 
-nano Only_genes_JH.txt 
-nano Only_genes_KM.txt 
-nano Only_genes_JH.txt 
-nano Only_genes_MM.txt 
-ls
-rm Only_genes_JH.txt 
-ls
-cp Example.bed Only_genes_JH.txt
-ls
-nano Only_genes_JH.txt 
-nano Only_genes_MM.txt 
-nano Only_genes_KM.txt 
-sort -n -k2 | cut -f 4
-cat Only_genes_JH.txt | cut "" -f4
-cat Only_genes_JH.txt | cut -d "" -f4
-nano Only_genes_JH.txt 
-cut -d "" -f4 Only_genes_JH.txt 
-nano Only_genes_JH.txt 
-sed -e 's/  \+/\t/g' Only_genes_JH.txt| cut -f2 
-nano Only_genes_JH.txt 
-sed -e 's/  \+/\t/g' Only_genes_JH.txt| cut -f4 
-nano Only_genes_JH.txt 
-cut -c n4 Only_genes_JH.txt 
-nano Only_genes_JH.txt 
-awk '$1 == "chr01"' Only_genes_JH.txt | head |less -S
-awk '$1 == "chr01" { pring $1-3 }' Only_genes_JH.txt | head |less -S
-nano Only_genes_JH.txt 
-awk '$1 == "chr01" { print $1-3 }' Only_genes_JH.txt | head |less -S
-awk '$1 == "chr01" { print $1 } { print $2 } {print $3 }' Only_genes_JH.txt | head |less -S
-nano Only_genes_JH.txt 
-cut -d 't' -f 1,2,3 Only_genes_JH.txt 
-nano Only_genes_JH.txt 
-cut -d ' ' -f 1,2,3 Only_genes_JH.txt 
-nano Only_genes_JH.txt 
-s
-ls
-nano Only_genes_JH.txt 
-sort -n -k1 | cut -f 1,2,3
-sort -n -k1 | cut -f 1,2,3 Only_genes_JH.txt 
-nano Only_genes_JH.txt 
-cp 
-nano Only_genes_
-nano Only_genes_JH.txt 
-cp sort -n -k1 | cut -f 1,2,3 Example.bed Only_genes_JH.txt 
-nano Only_genes_
-nano Only_genes_JH.txt 
-sed 's/%/\t/g' Only_genes_JH.txt | sed 's/\.\./\t/g' | sort -n -k2  | cut -f 1,2,3
-nano Only_genes_JH.txt 
-sort -n -k1 | cut -f 1,2,3 Only_genes_JH.txt 
-cp sort -n -k1 | cut -f 1,2,3 Only_genes_JH.txt 
-nano Only_genes_JH.txt 
-sort -n -k1 | cut -f 1,2,3 cp Only_genes_JH.txt 
-nano Only_genes_JH.txt 
-qrsh
-cd classdata/
-ls
-cd Homework_data/
-ls
-cd data-shell/
-ls
-qrsh
-qrsh
-ls
-cd week4_wed/
-ls
-sh JH_cut_stuff.sh 
-sh JH_rainbow1.sh 
-sh JH_rainbow2.sh 
-sh JH_rainbow.txt 
-qrsh
-cd week4_mon/
-ls
-nano JH_cut_stuff.sh 
-cd ../
-qrsh
-ls
-cd week4_mon/
-ls
-nano JH_cut_stuff.sh 
-nano JH_rainbow1.sh 
-nano JH_rainbow2.sh 
-nano JH_until8.sh 
-nano JH_rainbow2.sh 
-nano JH_rainbow1.sh 
-nano JH_cut_stuff.sh 
-nano JH_while8.sh
-nano JH_until8.sh 
-nano JH_while8.sh
-nano JH_until8.sh 
-nano JH_while8.sh
-nano JH_until8.sh 
-nano JH_while8.sh
-nano JH_until8.sh 
-nano JH_while8.sh
-sh JH_while8.sh 
-nano JH_while8.sh
-sh JH_while8.sh 
-nano JH_range8.sh
-sh JH_range8.sh 
-cd $HOME
-ls
-cd classdata/
-cd Homework_data/
-cd data-shell/
-cd molecules/
-ls
-nano JH_Week4_Monday.txt
-for datfile in *pdb; do  ls *.pdb; done
-nano JH_Week4_Monday.txt
-mkdir JH_Week4_Monday.txt
-cd $HOme
-cd week4_mon/
-nano JH_Week4_Monday.txt
-cd $home
-cd classdata/
-cd Homework_data/
-cd data-shell/
-cd molecules/
-pwd
-for datafile in *.pdb; do ls $datafile; done
-cd $Home
-cd week4_mon/
-nano JH_Week4_Monday.txt 
-cd /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/molecules
-for filename in c*; do ls $filename; done
-cd /u/home/class/c177/c177-12/week4_mon/
-ls
-nano JH_Week4_Monday.txt 
-cd /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/molecules
-for filename in *c*; do ls $filename; done
-cd /u/home/class/c177/c177-12/week4_mon/
-nano JH_Week4_Monday.txt 
-cd /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/molecules
-for alkanes in *.pdb; do echo $alkanes; cat $alkanes > alkanes.pdb; done
-for alkanes in *.pdb; do echo $alkanes; cat $alkanes > alkanes.pdb; done
-ls
-cd /u/home/class/c177/c177-12/week4_mon/
-nano JH_Week4_Monday.txt 
-for alkanes in *.pdb; do echo $alkanes; cat $alkanes > alkanes.pdb; done
-cd /u/home/class/c177/c177-12/classdata/Homework_data/data-shell/molecules
-for datafile in *.pdb; do cat $datafile >> all.pdb; done
-ls
-for datafile in *.pdb; do cat $datafile >> all.pdb; done
-ls
-cd /u/home/class/c177/c177-12/week4_mon/
-nano JH_Week4_Monday.txt 
-ls -a
-module load git
-git add .
-git commit -m "week4_mon"
-nano alkanes.pdb 
-rm alkanes.pdb 
-ls
-git commit -m "JH_ct_stuff.sh"
-git commit -m "JH_cut_stuff.sh"
-echo "# week4_mon" >> JH_cut_stuff.sh
-git init
-git add JH_cut_stuff.sh
-git commit -m "first commit"
-qrsh
-cd classdata/
-ls
-pwd
-mv /u/home/class/c177/c177-12/classdata/hg19.gtf /u/home/class/c177/c177-12/
-ls
-cd ../
-ls
-head less hg19.gtf 
-cut -f 1 hg19.gtf | uniq
-grep "chr2" hg19.gtf | cut -f 1 | uniq
-grep -P "chr2\t" hg19.gtf | cut -f 1 | uniq
-sh Split_GTF.sh hg19.gtf
-nano hg19.gtf 
-nano Split_GTF.sh
-sh Split_GTF.sh 
-ls -d chr*
-cd Split_GTF.sh 
-nano Split_GTF.sh 
-sh Split_GTF.sh 
-sh Split_GTF.sh hg19.gtf 
-ls -d chr* Split_GTF.sh 
-ls -d chr* hg19.gtf 
-qrsh
-cd week4_wed/
-ls
-nano JH_rainbow.txt 
-nano JH_until8.sh 
-sh JH_until8.sh 
-cd ../
-mv week4_wed/ week4_mon
-ls
-cd week4_mon/
-ls
-nano JH_cut_stuff.sh 
-qrsh
-qrsh
-nano Week3_Mini-Challenge_JH.sh
-ls
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh
-qrsh
-qrsh
-pwd
-ls
-mv /u/home/class/c177/c177-12/dir_Chr2/chr2.gtf /u/home/class/c177/c177-12/dir_Chr21/
-mv /u/home/class/c177/c177-12/dir_Chr3/chr3.gtf /u/home/class/c177/c177-12/dir_Chr21/
-mv /u/home/class/c177/c177-12/Split_GTF.sh /u/home/class/c177/c177-12/dir_Chr21/
-cd dir_Chr21/
-ls
-cd ../
-mv /u/home/class/c177/c177-12/hg19.gtf /u/home/class/c177/c177-12/dir_Chr21/
-cd dir_Chr21/
-ls
-nano chr21.gtf 
-nano chr3.gtf 
-nano chr2.gtf 
-ls -a
-module load git
-git add .
-git commit -m "dir_Chr21"
-git commit -m "chr21.gtf"
-echo "# dir_Chr21" >> chr21.gtf
-git init
-git add chr21.gtf
-git commit -m "first commit"
-git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
-git put -u origin master
+git commit -m "JH_Week6_Monday_InClassAssignment"
 git push -u origin master
-pwd
+git clone https://github.com/pceeb/in-class-week6-monday-jordannholmes.git
+git add .
+git commit -m "JH_Week6_Monday_InClassAssignment"
+git push -u origin master
 cd ../
 ls
-mkdir Homework_Week4_Wed
-mv /u/home/class/c177/c177-12/dir_Chr21/chr21.gtf /u/home/class/c177/c177-12/Homework_Week4_Wed/
-mv /u/home/class/c177/c177-12/dir_Chr21/chr3.gtf /u/home/class/c177/c177-12/Homework_Week4_Wed/
-mv /u/home/class/c177/c177-12/dir_Chr21/chr2.gtf /u/home/class/c177/c177-12/Homework_Week4_Wed/
-mv /u/home/class/c177/c177-12/dir_Chr21/hg19.gtf /u/home/class/c177/c177-12/Homework_Week4_Wed/
-mv /u/home/class/c177/c177-12/dir_Chr21/Split_GTF.sh /u/home/class/c177/c177-12/Homework_Week4_Wed/
-cd Homework_Week4_Wed/
+cd w5-discuss-questions-jordannholmes/
 ls
+cd ../
+cd FinalProject/
+ls
+git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
+git add .
+git commit -m "FinalProject"
+git push -u origin master
+nano README_Week6.md 
+cd ../
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+cd JH_Week6_Monday_InClassAssignment/
+ls
+nano JH_Week6_Monday_InClassAssignment.txt 
+module load git
 ls -a
 module load git
-git add .
-git commit -m "Homework_Week4_Wed"
-git commit -m "Split_GTF.sh"
-echo "Homework_Week4_Wed" >> Split_GTF.sh
-git init
-git add Split_GTF.sh 
-git commit -m "first commit"
-git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
-git push -u origin master
-git pull Split_GTF.sh 
+ls -a
+git clone https://github.com/pceeb/in-class-week6-monday-jordannholmes.git
 cd ../
 ls
-cd dir_Chr2
+cd FinalProject/
 ls
+nano README_Week6
+NANO README_Week6.md 
+nano README_Week6.md
+cd ../
+ls
+cd JH_Week6_Monday_InClassAssignment/
+ls
+cd in-class-week6-monday-jordannholmes/
+ls
+cd README.md 
+nano README.md 
 pwd
 cd ../
-cd Homework_Week4_Wed/
-pwd
-mv /u/home/class/c177/c177-12/Homework_Week4_Wed/chr2.gtf /u/home/class/c177/c177-12/dir_Chr2
-cd ../
-cd dir_Chr2
+rm -r /u/home/class/c177/c177-12/JH_Week6_Monday_InClassAssignment/in-class-week6-monday-jordannholmes
+qrsh
 ls
+cd JH_Week6_Monday_InClassAssignment/
+ls
+nano JH_Week6_Monday_InClassAssignment.txt 
+la -a
 ls -a
 module load git
+ls -a
+git clone https://github.com/pceeb/in-class-week6-monday-jordannholmes.git
+ls
+pwd
+cp /u/home/class/c177/c177-12/JH_Week6_Monday_InClassAssignment/JH_Week6_Monday_InClassAssignment.txt /u/home/class/c177/c177-12/JH_Week6_Monday_InClassAssignment/in-class-week6-monday-jordannholmes/
+cd in-class-week6-monday-jordannholmes/
+ls
+ls -a
 git add .
-git commit -m "dir_Chr2"
-git commit -m "chr2.gtf"
-echo "# dir_Chr2" >> chr2.gtf
-git init
-git add chr2.gtf 
-git commit -m "first commit"
-git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
-git push -u origin master
+ls -a
+ls ../
 ls
-head less hg19.gtf 
-nano hg19.gtf 
-nano Split_GTF.sh 
-sh Split_GTF.sh hg19.gtf 
-ls -d chr*
-ls -d chr* Split_GTF.sh 
-nano Split_GTF.sh 
-head chr3_gtf/chr3.gtf
-grep -P "chr2\t" hg19.gtf chr2.gtf
-cd S
-cd Split_GTF.sh 
-ls
-mkdir dir_Chr2
-grep -P "chr2\t" $1 > dir_Chr2.gtf
-grep -P "chr2\t" $1 > dir_Chr2/chr2.gtf
-grep -P "chr2\t" hg19.gtf dir_Chr2
-cd dir_Chr2
-mkdir dir_Chr2.gtf
-grep -P "chr2\t" hg19.gtf dir_Chr2.gtf/
-ls
-rm dir_Chr2.gtf/
-rmdir dir_Chr2.gtf/
-ls
-grep -P "chr2\t" hg19.gtf chr2.gtf/
-grep -P "chr2\t" hg19.gtf > chr2.gtf/
-nano chr2.gtf 
-nano chr2.gtf
-
-nano chr2.gtf 
-nano chr2.gtf
-sh chr2.gtf 
-cd chr2.gtf 
-grep -P "chr2\t" hg19.gtf > < chr2.gtf
-grep -P "chr2\t" hg19.gtf > chr2.gtf
-cd ../
-grep -P "chr2\t" hg19.gtf > chr2.gtf
-cd dir_Chr2
-nano chr2.gtf 
-cd ../
-ls
-grep -P "chr2\t" $1 > dir_Chr2/chr2.gtf 
-grep -P "chr2\t" hg19.gtf > dir_Chr2/chr2.gtf 
-cd dir_Chr2/
-nano chr2.gtf 
-cd ../
-grep -P "chr21\t" hg19.gtf > dir_Chr21/chr21.gtf 
-grep -P "chr3\t" hg19.gtf > dir_Chr3/chr3.gtf 
-cd dir_Chr2
-nano chr2.gtf 
+git pull
 cd ..
-nano dir_Chr3/
-cd dir_Chr3/
-nano chr3.gtf 
-cd ../
-cd dir dir_Chr21/
-cd dir_Chr21/
-nano chr21.gtf 
-cd ../
-ls -d chr
-ls -d chr*
-head chr21_gtf/chr21.gtf
-head dir_Chr21/chr21.gtf
-ls -d chr*
-head dir_Chr2/chr2.gtf
-head dir_Chr3/chr3.gtf
 ls
-nano dir_Chr2.gtf 
-rm dir_Chr2.gtf 
+rm -rf in-class-week6-monday-jordannholmes/
+git clone https://github.com/pceeb/in-class-week6-monday-jordannholmes.git
+cp JH_Week6_Monday_InClassAssignment.txt in-class-week6-monday-jordannholmes/
+cd in-class-week6-monday-jordannholmes/
 ls
-pwd
-nano chr2.gtf 
-cd dir_Chr2/
-ls
-nano chr2.gtf 
-cd ..
-nano chr2.gtf 
-cd Split_GTF.sh 
-nano Split_GTF.sh 
 ls -a
-module load git
 git add .
-git commit -m "hg19.gtf"
-qrsh
-ls
-cd dir_Chr2
-ls
-pwd
-ls a
-ls -a
-module load git
-git add .
-git commit -m "dir_Chr2" 
-git commit -m "chr2.gtf"
-echo "# dir_Chr2" >> chr2.gtf 
-git init
-git add chr2.gtf 
-git commit -m "first commit"
-git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
-git push -u origin master
-cd ../
-ls
-cd dir_Chr2
-ls
-cd ../
-cd dir_Chr21/
-ls
-cd ../
-cd dir_Chr3/
-ls
-cd ../
-cd Ho
-cd Homework_Week4_Wed/
-pwd
-ls
-mv /u/home/class/c177/c177-12/Homework_Week4_Wed/chr21.gtf /u/home/class/c177/c177-12/dir_Chr21/
-mv /u/home/class/c177/c177-12/Homework_Week4_Wed/chr3.gtf /u/home/class/c177/c177-12/dir_Chr3/
-mv /u/home/class/c177/c177-12/Homework_Week4_Wed/hg19.gtf /u/home/class/c177/c177-12/
-mv /u/home/class/c177/c177-12/Homework_Week4_Wed/Split_GTF.sh /u/home/class/c177/c177-12/
-cd ../
-ls
-cd dir_Chr21
-ls
-cd ../
-cd dir_Chr2
-ls
-cd ../
-cd dir_Chr3
-ls
-cd ../
-ls -
-ls -a
-module load git
-git add .
-git commit -m "dir_Chr2"
-git commit -m "chr2.gtf"
-echo "# dir_Chr2" >> chr2.gtf 
-git init
-git add chr2.gtf 
-git commit -m "first commit"
-git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
-git push -u origin master
-git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
-git push -u origin master
-qsh
-qrsh
-ls
-nano Split_GTF.sh 
-ls -a
-module load git
-git add .
-git commit -m "Split_GTF.sh" 
-echo "# Split_GTF.sh" 
-echo "# c177-12" >> Split_GTF.sh
-git init 
-git add Split_GTF.sh 
-git commit -m "first commit"
-git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git commit -m "in-class-week6-monday-jordannholmes"
 git push -u origin master
 qrsh
-module load python
-python --version
-python
-qrsh
 ls
-mkdir JH_week4_inclass.txt
-nano JH_week4_inclass.txt/
-dm JH_week4_inclass.txt/
-rm JH_week4_inclass.txt/
-rkdir JH_week4_inclass.txt/
-rmdir JH_week4_inclass.txt/
+cd JH_Week6_Monday_InClassAssignment/
 ls
-nano JH_Week4_Inclass.txt 
-pwd
-mv /u/home/class/c177/c177-12/JH_Week4_Inclass.txt /u/home/class/c177/c177-i0/classdata/In_class/Week4/Wednesday
+nano JH_Week6_Monday_InClassAssignment.txt 
 cd classdata/
 cd In_class/
 cd Week
-cd cd Week4/
-ls
-cd Week4
+cd Week6
 cd Wednesday/
 ls
-nano JH_Week4_Inclass.txt 
+cd script_file/
 ls
+nano run_namecount.py
+ls
+cp /u/home/class/c177/c177-12/classdata/In_class/Week6/Wednesday/script_file /u/home/class/c177/c177-12/
 cd $HOME
 ls
-nano Split_GTF.sh 
-ls -a
+cp /u/home/class/c177/c177-12/classdata/In_class/Week6/Wednesday/script_file /u/home/class/c177/c177-12/week6_wed
+mkdir week6_wed
+cp /u/home/class/c177/c177-12/classdata/In_class/Week6/Wednesday/script_file /u/home/cl
+cd classdata/
+cd In_class/
+cd Week6
+cd Wednesday/
+ls
+cd script_file/
+pwd
+cp /u/home/class/c177/c177-12/classdata/In_class/Week6/Wednesday/script_file /u/home/class/c177/c177-12/week6_wed/
+cp -r /u/home/class/c177/c177-12/classdata/In_class/Week6/Wednesday/script_file /u/home/class/c177/c177-12/week6_wed/
+cd $HOME
+cd week6_wed/
+ls
+cd script_file/
+ls
+pwd 
+mv /u/home/class/c177/c177-12/week6_wed/script_file/run_namecount.py /u/home/class/c177/c177-12/week6_wed/script_file/JH_run_namecount.py
+ls
+nano JH_run_namecount.py 
+ls
+cd namecounts/
+ls
+cd ../
+nano JH_run_namecount.py 
+qrsh
+ls
+cd FinalProject/
+ls
+rm w5-discuss-questions-jordannholmes/
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+rm -rf w5-discuss-questions-jordannholmes/
+ls
+nano README_Week6.md 
 module load git
-git add Split_GTF.sh 
-git commit "Split_GTF.sh" 
-qrsh
-qrsh
+ls -a
+git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
+ls
+mv README_Week6.md w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
 ls
 ls -a
 git add .
-git commit -m "dir_Chr2"
-git commit -m "chr2.gtf"
-echo "# dir_Chr2" >> chr2.gtf 
-git init
-git add chr2.gtf 
-git commit -m "first commit"
-git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git commit -m "w5-discuss-questions-jordannholmes/"
 git push -u origin master
-$1="sun"
-$1='sun'
-str1="sun"
-str2="shine"
-str3=$str1$str2
-echo $str3
 ls
-cd week4_mon/
+nano README_Week6
+nano README_Week6.md 
+git add .
+git commit -m "w5-discuss-questions-jordannholmes"
+git push -u origin master
+jordannholmes
 ls
-nano JH_Week4_Monday.txt 
+module load git
+git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
+ls -a
+git add .
+git commit -m "w5-discuss-questions-jordannholmes"
+git push -u origin master
+nano README_Week6.md 
+module load git
+ls -a
+git add .
+git commit -m "w5-discuss-questions-jordannholmes"
+git push -u origin master
+nano README_Week6.md 
+ls -a
+git push -u origin master
+git add .
+git commit -m "w5-discuss-questions-jordannholmes"
+git push -u origin master
+nano README_Week6.md 
+ls -a
+git add .
+git commit -m "w5-discuss-questions-jordannholmes"
+git push -u origin master
+nano README_Week6.md 
+git add .
+git commit -m "w5-discuss-questions-jordannholmes"
+git push -u origin master
+nano README_Week6.md 
+git add .
+git commit -m "w5-discuss-questions-jordannholmes"
+git push -u origin master
+qrsh
+qrsh
+ls
+cd week6_wed/
+ls
+cd script_file/
+ls
+cd JH_run_namecount.py
+nano JH_run_namecount.py
+nano JH_run_namecount.py.save 
+rm JH_run_namecount.py
+mv JH_run_namecount.py.save JH_run_namecount.py
+ls
+nano JH_run_namecount.py
+ls
+mv JH_run_namecount.py ~/classdata/In_class/Week6/Wednesday/
+cd $home
+cd classdata/In_class/Week6/Wednesday/
+ls
+nano JH_run_namecount.py 
+cd $home
+ls
+cd lecture_1/
+ls
+cd ../
+cd second-assignment-jordannholmes/
+ls
+cd ../
+rm -rf second-assignment-jordannholmes/
+cd introscicomp2014/
+ls
+cd ../
+cd JH_Week6_Monday
+ls
+cd ../
+cd Homework_Week4_Wed/
+ls
+cd ../
+rm -rf Homework_Week4_Wed/
+nano hg19.gtf 
+rm hg19.gtf 
+cd Genes_example/
+ls
+cd ../
+cd EEB-177-Lab-1/
+ls
+cd ../
+rm -rf EEB-177-Lab-1/
+ls
+cd week_1
+ls
+cd ../
+rm -rf week_1
+cd week2_wed/
+ls
+cd ../
+ls
+qrsh
+cd classdata/
+cd In_class/
+cd Week6
+ls
+cd Wednesday/
+ls
+nano MT_run_namecount.py 
+qrsh
+ls
+ls 
+cd FinalProject/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+ls
+nano README_Week6.md 
+nano README_Week7.md
+rm README_Week7.md 
+ls
+nano README_Week7.md
+mv README_Week7.md README_Week7_Data.txt
+nano README_Week7_Data.txt 
+nano README_Week6.md 
+nano README_Week6
+nano README_Week6.md 
+nano README_Week7_Data.txt
+nano README_Week6.md 
+cd FinalProject/
+ls
+w5-discuss-questions-jordannholmes/
+cd w5-discuss-questions-jordannholmes/
+ils
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+nano README_Week7_Data.txt
+nano README_Week7.md
+cd $HOme
+module load git
+ls
+git clone https://github.com/pceeb/homework-5-jordannholmes.git
+ls
+cd homework-5-jordannholmes/
+ls
+pwd
+cd $HOME
+cd FinalProject/
+cd w5-discuss-questions-jordannholmes/
+ls
+cp README_Week7.md /u/home/class/c177/c177-12/homework-5-jordannholmes
+cd $HOME
+cd homework-5-jordannholmes/
+ls
+git add README_Week7.md
+git commit -m "homework-5-jordannholmes"
+git push -u origin master
+nano README_Week7.md 
+git add README_Week7.md
+git commit -m "homework-5-jordannholmes"
+git push -u origin master
+qrsh
+ls
+cd FinalProject/
+ls 
+cd w5
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+nano README_Week7.md 
 cd $HOME
 module load git
+git clone https://github.com/pceeb/homework-5-jordannholmes.git
+ls
+cd homework-5-jordannholmes/
+ls
+nano README_Week7.md
+git add README_Week7.md
+git commit -m "homework-5-jordannholmes"
+git push -u origin master
+qrsh
+qrsh
+ls
+cd FinalProject/
+ls
+pwd
+cd w5-discuss-questions-jordannholmes/
+pwd
+cd w5-discuss-questions-jordannholmes/
+ls
+mv README_Week6.md /u/home/class/c177/c177-12/FinalProject/w5-discuss-questions-jordannholmes
+ls
+../
+cd ../
+ls
+cd w5-discuss-questions-jordannholmes/
+mv README_Week7.md /u/home/class/c177/c177-12/FinalProject/w5-discuss-questions-jordannholmes
+mv README_Week7_Data.txt /u/home/class/c177/c177-12/FinalProject/w5-discuss-questions-jordannholmes
+cd ../
+ls
+cd $Hcd $HOME
+ls
+cd FinalProject/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+rm -r w5-discuss-questions-jordannholmes/
+ls
+cd ../
+ls
+cd README_Week6.md 
+nano README_Week6.md 
+cd w5-discuss-questions-jordannholmes/
+ls
+rm README_Week6.md.save
+rm README_Week5.md 
+cd ../
+ls
+rm -r w5-discuss-questions-jordannholmes/
+qrsh
+ls
+cd FinalProject/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+rm -r w5-discuss-questions-jordannholmes/
+qrsh
+ls
+cd classdata/
+cd In_class/
+ls
+cd Week7
+ls
+cd Monday/
+pwd
+cd $HOME
+mv JH_fivethirtyeight.Rmd /u/home/class/c177/c177-12/classdata/In_class/Week7/Monday
+ls
+cd /u/home/class/c177/c177-12/classdata/In_class/Week7/Monda
+cd /u/home/class/c177/c177-12/classdata/In_class/Week7/Monday
+ls
+cd MTrstudio-notebooks/
+ls
+cd MTrstudio-notebooks/
+cd $HOME
+mv JH_R_Notebook.Rmd /u/home/class/c177/c177-12/classdata/In_class/Week7/Monday
+mv JH_R_Notebook2.Rmd /u/home/class/c177/c177-12/classdata/In_class/Week7/Monday
+mv JH_Getting_Started_Tidyverse.Rmd /u/home/class/c177/c177-12/classdata/In_class/Week7/Monda
+mv JH_Getting_Started_Tidyverse.Rmd /u/home/class/c177/c177-12/classdata/In_class/Week7/Monday
+cd /u/home/class/c177/c177-12/classdata/In_class/Week7/Monday
+ls
+nano JH_R_Notebook.Rmd 
+nano JH_R_Notebook2.Rmd 
+cd classdata/In_class/Week7/Wednesday/r-intro-files
+ls
+nano geo.csv
+cd .//
+cd ../
+ls
+nano KM_Week7_Wednesday.Rmd 
+nano acw_Week7_Wednesday.Rmd 
+qrsh
+cd classdata/
+cd In_class/
+ls
+cd Week7
+ls
+cd Wednesday/
+ls
+nano KM_Week7_Wednesday.Rmd 
+nano acw_Week7_Wednesday.Rmd
+nano KM_Week7_Wednesday.Rmd 
+nano acw_Week7_Wednesday.Rmd
+nano KM_Week7_Wednesday.Rmd 
+nano acw_Week7_Wednesday.Rmd
+qrsh
+ls
+cd classdata/
+cd In_class/
+cd Week7
+cd Wednesday/
+ls
+pwd
+cd $HOME
+mv JH_Week7_Wednesday.Rmd /u/home/class/c177/c177-12/classdata/In_class/Week7/Wednesday
+ls
+cd cla
+cd classdata/
+cd In_class/
+cd Week7
+cd Wednesday/
+ls
+cd JH_Week7_Wednesday.Rmd 
+nano JH_Week7_Wednesday.Rmd 
+qrsh
+cd FinalProject/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+cd w5-discuss-questions-jordannholmes/
+ls
+pwd
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+rm -r w5-discuss-questions-jordannholmes/
+qrsh
+cd FinalProject/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd README_Week7.md 
+nano README_Week7
+nano README_Week7.md 
+nano README_Week7_Data.txt
+nano README_Week7.md 
+sed 's/;/\t/g' README_Week7_Data.txt | sed 's/\.\./\t/g'
+nano README_Week7_Data.txt
+qrsh
+cd FinalProject/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+module load git
+git add .
+git commit "w5-discuss-questions-jordannholmes/"
+git clone https://github.com/pceeb/homework-5-jordannholmes.git
+git commit "w5-discuss-questions-jordannholmes/"
+cd FinalProject/
+cd w5-discuss-questions-jordannholmes/
+ls
+module load git
+git add .
+cd FinalProject/
+cd w5-discuss-questions-jordannholmes/
+ls
+nano README_Week7_Commands.md
+qrsh
+cd FinalProject/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd README_Week7_Commands.md
+nano README_Week7_Commands.md 
+sed 's/;/\t/g' README_Week7_Data.txt | sed 's/../\t/g'
+qrsh
+cd FinalProject/
+cd w5-discuss-questions-jordannholmes/
+cd README_Week7_Data.txt 
+grep -n ";;" README_Week7_Data.txt
+ls
+nano README_Week7_Commands.md 
+sh README_Week7_Commands.md 
+qrsh
+cd FinalProject/
+cd w5-discuss-questions-jordannholmes/
+nano README_Week7_Data.txt 
+ls
+mv README_Week7_Commands.md README_Week7_Commands.txt
+sh README_Week7_Commands.txt 
+qrsh
+cd FinalProject/
+cd w5-discuss-questions-jordannholmes/
+cd README_Week7_Commands.txt 
+nano README_Week7_C
+nano README_Week7_Commands.txt 
+cd ../
+module load git
+git clone https://github.com/pceeb/homework-5-jordannholmes.git
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+pwd
+cd ../
+cd FinalProject/
+cd w5-discuss-questions-jordannholmes/
+ls
+cp README_Week7_Data.txt /u/home/class/c177/c177-12/w5-discuss-questions-jordannholmes/w5-discuss-questions-jordannholmes
+cp README_Week7_Commands.txt /u/home/class/c177/c177-12/w5-discuss-questions-jordannholmes/w5-discuss-questions-jordannholmes
+cd ../
+cd w5-discuss-questions-jordannholmes/
+ls
+module load git
+ls
+cd ../
+module load git 
+git add .
+git commit -m "w5-discuss-questions-jordannholmes"
+git config --global core.editor "nano"
+git pull
+cd w5-discuss-questions-jordannholmes/
+ls
+cd $HOME 
+module load git
+git add .
+git config --global core.editor "nano"
+git pull origin master
+git clone https://github.com/pceeb/homework-5-jordannholmes.git
+git add .
+git commit -m "w5-discuss-questions-jordannholmes"
+git push -u origin master
+git config --global core.editor "nano"
+git pull
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+module load git
+git add .
+ls
+git commit -m "w5-discuss-questions-jordannholmes"
+git push -u origin master
+git pull
+git push -u origin master
+module load git
+git add .
+git commit -m "w5-discuss-questions-jordannholmes"
+git push -u origin master
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+ls
+cd ../
+cd w5-discuss-questions-jordannholmes/
+module load git
+git add .
+git commit -m "w5-discuss-questions-jordannholmes/"
+git push -u origin master
+git pull
+git add .
+git commit -m "w5-discuss-questions-jordannholmes/"
+git push -u origin master
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+rm -r w5-discuss-questions-jordannholmes/
+ls
+cd ../
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+qrsh
+cd FinalProject/
+cd ../
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+rm README_Week5.md 
+rm README_Week6.md 
+pwd
+mv README_Week7_Commands.txt /u/home/class/c177/c177-12/w5-discuss-questions-jordannholmes
+mv README_Week7_Data.txt /u/home/class/c177/c177-12/w5-discuss-questions-jordannholmes
+ls
+cd ../
+ls
+rm -r w5-discuss-questions-jordannholmes/
+qrsh
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+git clone https://github.com/pceeb/homework-5-jordannholmes.git
+git add .
+git commit -m "w5-discuss-questions-jordannholmes"
+git push -u origin master
+cd FinalProject/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+rm README_Week5.md 
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+ls
+cd ./
 git config --global core.editor "nano"
 git pull
 module load git
+git clone https://github.com/pceeb/homework-5-jordannholmes.git
 git add .
-cd $HOME
-ls
-pwd
-mv /u/home/class/c177/c177-12/Split_GTF.sh /u/home/class/c177/c177-12/Homework_Week4_Wed/
-cd Homework_Week4_Wed/
-ls
-module load git
-git add .
-git commit -m "Homework_Week4_Wed"
-git commit -m "Split_GTF.sh" 
-echo "# Homework_Week4_Wed" >> Split_GTF.sh 
-git init
-git add Split_GTF.sh 
-git commit "first commit"
-git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
+git commit -m "w5-discuss-questions-jordannholmes"
 git push -u origin master
 git add .
-git commit -m "Split_GTF.sh" 
-git push -u origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
-cd $HOME
-ls
-cd Homework_Week4_Wed/
-ls
-ls -a
-cd $HOME
-ls
-git clone https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
-ls
-pwd
-cp /u/home/class/c177/c177-12/Homework_Week4_Wed/Split_GTF.sh /u/home/class/c177/c177-12/lecthw4-assignment-jordannholmes/
-cd lecthw4-assignment-jordannholmes/
-ls
+git commit -m "w5-discuss-questions-jordannholmes
+
+
+x
+qrsh
 module load git
 git add .
-git commit -m "lecthw4-assignment-jordannholmes"
-git commit -m "Split_GTF.sh" 
-echo "# lecthw4-assignment-jordannholmes" >> Split_GTF.sh 
-git init
-git add Split_GTF.sh 
-git commit -m "first commit"
-git remote add origin https://github.com/pceeb/lecthw4-assignment-jordannholmes.git
-git push -u origin master
+git config --global core.editor "nano"
+git pull
+git pull origin master
 qrsh
 ls
-rmdir introscicomp2014/
-rm introscicomp2014/
-nano Script.sh 
-cd classdata/
+cd w5-discuss-questions-jordannholmes/
 ls
-cd Labs/
+cd homework-5-jordannholmes/
 ls
-cd Lab4/
+pwd
+mv README.md /u/home/class/c177/c177-12/w5-discuss-questions-jordannholmes/
+mv README_Week7.md /u/home/class/c177/c177-12/w5-discuss-questions-jordannholmes/
 ls
-cd Mini_challenge/
+cd ../
 ls
-cd $HOME
-ls
-cd Week3_Mini-Challenge_JH.sh 
-ls
-nano Week3_Mini-Challenge_JH.sh 
+rm -r homework-5-jordannholmes/
 qrsh
 ls
-rmdir Transcriptomes/
-rm Transcriptomes/
-rm number_of_exons_by_gene.txt 
-cd classdata/
+cd homework-5-jordannholmes/
 ls
-cd Labs/
+cd ../
+cd w5-discuss-questions-jordannholmes/
 ls
-cd Lab4
+pwd
+mv README_Week7_Commands.txt /u/home/class/c177/c177-12/homework-5-jordannholmes/
+mv README_Week7_Data.txt /u/home/class/c177/c177-12/homework-5-jordannholmes/
+cd ../
+cd homework-5-jordannholmes/
 ls
-cd Mini_challenge/
+cd ../
+cd w5-discuss-questions-jordannholmes/
 ls
-cd $HOME
-nano Week3_Mini-Challenge_JH.sh 
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh 
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh 
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh 
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh 
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh 
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh 
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh 
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh 
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh 
-sh Week3_Mini-Challenge_JH.sh 
-nano Week3_Mini-Challenge_JH.sh 
-mv Week3_Mini-Challenge_JH.sh Week4_Mini-Challenge_JH.sh 
+cd w5-discuss-questions-jordannholmes/
 ls
-git clone https://github.com/pceeb/lab4-challenges-jordannholmes.git
-ls -a
+cd ../
+cd homework-5-jordannholmes/
+ls
+cd ../
+cd homework-5-jordannholmes/
+ls
+cd ../
+module load gir
 module load git
 git add .
-git commit -m "Week4_Mini-Challenge_JH.sh" 
-git init
-git add Week4_Mini-Challenge_JH.sh 
-git commit -m "first commit"
-git remote add origin https://github.com/pceeb/lab4-challenges-jordannholmes.git
+git config --global core.editr "nano"
+git pull
+git config --global core.editr "nano"
+git pull origin master
+module load git
+git add .
+git commit -m "homework-5-jordannholmes/"
 git push -u origin master
-ls
-git clone https://github.com/pceeb/lab4-challenges-jordannholmes.git
-module load git
-git add .
-git commit -m "Week4_Mini-Challenge_JH.sh" 
-git init
-git add Week4_Mini-Challenge_JH.sh 
-git commit -m "first commit"
-git push Week4_Mini-Challenge_JH.sh 
