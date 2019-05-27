@@ -1,3 +1,0 @@
-   21 course_assignments.txt
-  339 syllabus.txt
-  360 total
