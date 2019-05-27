@@ -1,1 +1,0 @@
-1st_column%2nd_column%3rd_column..4th_column
