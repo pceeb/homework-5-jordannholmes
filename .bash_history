@@ -1,579 +1,4 @@
 ls
-nano Week_5_Wed.py
-python Week_5_Wed.py
-nano Week_5_Wed.sh
-sh Week_5_Wed.sh 
-nano Week_5_comment_block.py
-python Week_5_comment_block.py
-ls
-nano dictionary.py
-python Dictionary.py
-python dictionary.py
-nano dictionary.py
-python dictionary.py
-nano dictionary.py 
-python dictionary.py
-nano dictionary.py 
-python dictionary.py
-nano dictionary.py 
-python dictionary.py
-nano dictionary.py 
-python dictionary.py
-nano dictionary.py 
-python dictionary.py
-nano dictionary.py 
-python dictionary.py
-ls
-import numpy
-nano libs_and_data.py
-ls
-pwd
-cp /u/home/class/c177/c177-i0/classdata/In_class/Week5/Wednesday/data/inflammation-01.csv /u/home/class/c177/c177-12/JH_Week5_Wednesday
-ls
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py 
-python libs_and_data.py 
-nano libs_and_data.py
-python libs_and_data.py 
-nano subset1_ugly.txt
-ls
-nano subset1_cleaner.txt
-nano subset1_ugly.txt
-python subset1_ugly.txt 
-rm subset1_cleaner.txt 
-rm subset1_ugly.txt 
-ls
-nano libs_and_data.py 
-python libs_and_data.py 
-ls
-cd subset1_cleaner.txt 
-nano subset1_cleaner.txt 
-nano subset1_ugly.txt 
-ls
-pwd
-cd $HOME
-ccd classdata/
-cd classdata/
-cd In_class/
-cd Week5
-cd Wednesday/
-ls
-pwd
-mv /u/home/class/c177/c177-12/JH_Week5_Wednesday /u/home/class/c177/c177-12/classdata/In_class/Week5/Wednesday
-ls
-cd JH_Week5_Wednesday/
-ls
-cd ../
-cd JB_Week5_Wednesday/
-ls
-cd ../
-cd KG_week5_Wednesday/
-ls
-cd ../
-cd KM_Week5_Wednesday/
-ls
-nano write_text.txt 
-cd ../
-cd LC_Week5_Wednesday/
-ls
-cd ../
-cd MM_Week5_Wednesday/
-ls
-cd ../
-cd MT_Week5_Wednesday/
-ls
-cd I_wrote_a_text_file_in_python.txt 
-nano I_wrote_a_text_file_in_python.txt 
-cd ../
-cd JH_Week5_Wednesday/
-ls
-nano libs_and_data.py 
-ls
-python libs_and_data.py 
-ls
-cd ../
-ls
-qrsh
-cd JH_Week6_Monday/
-ls
-cd ../
-ls
-rm dir_Chr2
-cd dir_Chr2
-ls
-cd ../
-rm -rf dir_Chr2
-rm -rf dir_Chr21
-rm -rd dir_Chr3/
-ls
-cd curriculum-markdown/
-ls
-cd ../
-rm -rf curriculum-markdown/
-cd README.cd/
-ls
-cd ../
-rm -rf README.cd/
-cd Genes_example/
-ls
-cd ../
-cd introscicomp2014/
-ls
-cd ../
-cd test_shell_scriptJH_MT.sh/
-ls
-cd ../
-rm -rf test_shell_scriptJH_MT.sh/
-ls
-nano hg19.gtf 
-cd Hofffman2_JH_MT.txt 
-nano Hofffman2_JH_MT.txt 
-rm Hofffman2_JH_MT.txt 
-ls
-cd lecture_1/
-ls
-cd syllabus/
-ls
-cd ../
-cd../
-cd ../
-cd first-assignment-jordannholmes/
-ls
-cd Labs/
-ls
-cd W1/
-ls
-cd $HOME
-rm -rf first-assignment-jordannholmes/
-ls
-cd second-assignment-jordannholmes/
-ls
-cd ../
-cd eeb-177/
-ls
-cd ../
-cd JH_Week6_Monday/
-ls
-python script.py LED* > Output.txt
-python Mergefiles.py LED* > Output.txt
-less Output.txt
-nano Mergefiles.py 
-python Mergefiles.py 
-qrsh
-ls
-qrsh
-cd JH_Week6_Monday/
-ls
-cd ../
-nano JH_Week6_Monday_InClassAssignment
-ls
-mv JH_Week6_Monday_InClassAssignment JH_Week6_Monday_InClassAssignment.txt
-ls
-cd FinalProject/n
-cd FinalProject/
-ls
-cd README_Week5.md 
-nano README_Week5.md 
-ls
-pwd
-cd FinalProject/
-ls
-cd ../
-rm -rf /u/home/class/c177/c177-12/FinalProject
-ls
-cd ../
-ls
-cd classdata 
-cd classdata/
-mkdir FinalProject
-ls
-cd FinalProject/
-mkdir README_Week5.md
-ls
-rm -rf README_Week5.md/
-ls
-nano README_Week5.md
-ls
-nano README_Week6.md
-git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
-module load git
-ls -a
-git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
-ls -a
-git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
-qrsh
-ls
-nano JH_Week6_Monday_InClassAssignment.txt 
-cd FinalProject/
-ls
-cd README_Week6.md 
-nano README_Week6
-nano README_Week6.md 
-git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
-ls -a
-module load git
-ls
-ls -a
-git add .
-git commit -m "FinalProject"
-git push -u origin master
-ls -a
-module load git
-ls
-ls -a
-git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
-module load git
-git add .
-git commit -m "FinalProject"
-git push -u origin master
-qrsh
-ls
-nano JH_Week6_Monday_InClassAssignment.txt 
-ls -a
-pwd
-mv /u/home/class/c177/c177-12/JH_Week6_Monday_InClassAssignment.txt /u/home/class/c177/c177-12/JH_Week6_Monday
-cd JH_Week6_Monday/
-ls
-nano Output.txt 
-mv /u/home/class/c177/c177-12/JH_Week6_Monday/JH_Week6_Monday_InClassAssignment.txt /u/home/class/c177/c177-12/
-cd ../
-ls
-mkdir JH_Week6_Monday_InClassAssignment
-mv /u/home/class/c177/c177-12/JH_Week6_Monday_InClassAssignment.txt  /u/home/class/c177/c177-12/JH_Week6_Monday_InClassAssignment
-cd JH_Week6_Monday_InClassAssignment/
-ls
-ls -a
-module load git
-ls -a
-git clone https://github.com/pceeb/in-class-week6-monday-jordannholmes.git
-qrsh
-ls
-cd JH_Week6_Monday
-ls
-cd ../
-cd JH_Week6_Monday_InClassAssignment/
-ls
-cd JH_Week6_Monday_InClassAssignment.txt 
-nano JH_Week6_Monday_InClassAssignment.txt 
-git clone https://github.com/pceeb/in-class-week6-monday-jordannholmes.git
-git add .
-git commit -m "JH_Week6_Monday_InClassAssignment"
-git push -u origin master
-git clone https://github.com/pceeb/in-class-week6-monday-jordannholmes.git
-git add .
-git commit -m "JH_Week6_Monday_InClassAssignment"
-git push -u origin master
-cd ../
-ls
-cd w5-discuss-questions-jordannholmes/
-ls
-cd ../
-cd FinalProject/
-ls
-git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
-git add .
-git commit -m "FinalProject"
-git push -u origin master
-nano README_Week6.md 
-cd ../
-ls
-cd w5-discuss-questions-jordannholmes/
-ls
-cd ../
-cd JH_Week6_Monday_InClassAssignment/
-ls
-nano JH_Week6_Monday_InClassAssignment.txt 
-module load git
-ls -a
-module load git
-ls -a
-git clone https://github.com/pceeb/in-class-week6-monday-jordannholmes.git
-cd ../
-ls
-cd FinalProject/
-ls
-nano README_Week6
-NANO README_Week6.md 
-nano README_Week6.md
-cd ../
-ls
-cd JH_Week6_Monday_InClassAssignment/
-ls
-cd in-class-week6-monday-jordannholmes/
-ls
-cd README.md 
-nano README.md 
-pwd
-cd ../
-rm -r /u/home/class/c177/c177-12/JH_Week6_Monday_InClassAssignment/in-class-week6-monday-jordannholmes
-qrsh
-ls
-cd JH_Week6_Monday_InClassAssignment/
-ls
-nano JH_Week6_Monday_InClassAssignment.txt 
-la -a
-ls -a
-module load git
-ls -a
-git clone https://github.com/pceeb/in-class-week6-monday-jordannholmes.git
-ls
-pwd
-cp /u/home/class/c177/c177-12/JH_Week6_Monday_InClassAssignment/JH_Week6_Monday_InClassAssignment.txt /u/home/class/c177/c177-12/JH_Week6_Monday_InClassAssignment/in-class-week6-monday-jordannholmes/
-cd in-class-week6-monday-jordannholmes/
-ls
-ls -a
-git add .
-ls -a
-ls ../
-ls
-git pull
-cd ..
-ls
-rm -rf in-class-week6-monday-jordannholmes/
-git clone https://github.com/pceeb/in-class-week6-monday-jordannholmes.git
-cp JH_Week6_Monday_InClassAssignment.txt in-class-week6-monday-jordannholmes/
-cd in-class-week6-monday-jordannholmes/
-ls
-ls -a
-git add .
-git commit -m "in-class-week6-monday-jordannholmes"
-git push -u origin master
-qrsh
-ls
-cd JH_Week6_Monday_InClassAssignment/
-ls
-nano JH_Week6_Monday_InClassAssignment.txt 
-cd classdata/
-cd In_class/
-cd Week
-cd Week6
-cd Wednesday/
-ls
-cd script_file/
-ls
-nano run_namecount.py
-ls
-cp /u/home/class/c177/c177-12/classdata/In_class/Week6/Wednesday/script_file /u/home/class/c177/c177-12/
-cd $HOME
-ls
-cp /u/home/class/c177/c177-12/classdata/In_class/Week6/Wednesday/script_file /u/home/class/c177/c177-12/week6_wed
-mkdir week6_wed
-cp /u/home/class/c177/c177-12/classdata/In_class/Week6/Wednesday/script_file /u/home/cl
-cd classdata/
-cd In_class/
-cd Week6
-cd Wednesday/
-ls
-cd script_file/
-pwd
-cp /u/home/class/c177/c177-12/classdata/In_class/Week6/Wednesday/script_file /u/home/class/c177/c177-12/week6_wed/
-cp -r /u/home/class/c177/c177-12/classdata/In_class/Week6/Wednesday/script_file /u/home/class/c177/c177-12/week6_wed/
-cd $HOME
-cd week6_wed/
-ls
-cd script_file/
-ls
-pwd 
-mv /u/home/class/c177/c177-12/week6_wed/script_file/run_namecount.py /u/home/class/c177/c177-12/week6_wed/script_file/JH_run_namecount.py
-ls
-nano JH_run_namecount.py 
-ls
-cd namecounts/
-ls
-cd ../
-nano JH_run_namecount.py 
-qrsh
-ls
-cd FinalProject/
-ls
-rm w5-discuss-questions-jordannholmes/
-cd w5-discuss-questions-jordannholmes/
-ls
-cd ../
-rm -rf w5-discuss-questions-jordannholmes/
-ls
-nano README_Week6.md 
-module load git
-ls -a
-git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
-ls
-mv README_Week6.md w5-discuss-questions-jordannholmes/
-ls
-cd w5-discuss-questions-jordannholmes/
-ls
-ls -a
-git add .
-git commit -m "w5-discuss-questions-jordannholmes/"
-git push -u origin master
-ls
-nano README_Week6
-nano README_Week6.md 
-git add .
-git commit -m "w5-discuss-questions-jordannholmes"
-git push -u origin master
-jordannholmes
-ls
-module load git
-git clone https://github.com/pceeb/w5-discuss-questions-jordannholmes.git
-ls -a
-git add .
-git commit -m "w5-discuss-questions-jordannholmes"
-git push -u origin master
-nano README_Week6.md 
-module load git
-ls -a
-git add .
-git commit -m "w5-discuss-questions-jordannholmes"
-git push -u origin master
-nano README_Week6.md 
-ls -a
-git push -u origin master
-git add .
-git commit -m "w5-discuss-questions-jordannholmes"
-git push -u origin master
-nano README_Week6.md 
-ls -a
-git add .
-git commit -m "w5-discuss-questions-jordannholmes"
-git push -u origin master
-nano README_Week6.md 
-git add .
-git commit -m "w5-discuss-questions-jordannholmes"
-git push -u origin master
-nano README_Week6.md 
-git add .
-git commit -m "w5-discuss-questions-jordannholmes"
-git push -u origin master
-qrsh
-qrsh
-ls
-cd week6_wed/
-ls
-cd script_file/
-ls
-cd JH_run_namecount.py
-nano JH_run_namecount.py
-nano JH_run_namecount.py.save 
-rm JH_run_namecount.py
-mv JH_run_namecount.py.save JH_run_namecount.py
-ls
-nano JH_run_namecount.py
-ls
-mv JH_run_namecount.py ~/classdata/In_class/Week6/Wednesday/
-cd $home
-cd classdata/In_class/Week6/Wednesday/
-ls
-nano JH_run_namecount.py 
-cd $home
-ls
-cd lecture_1/
-ls
-cd ../
-cd second-assignment-jordannholmes/
-ls
-cd ../
-rm -rf second-assignment-jordannholmes/
-cd introscicomp2014/
-ls
-cd ../
-cd JH_Week6_Monday
-ls
-cd ../
-cd Homework_Week4_Wed/
-ls
-cd ../
-rm -rf Homework_Week4_Wed/
-nano hg19.gtf 
-rm hg19.gtf 
-cd Genes_example/
-ls
-cd ../
-cd EEB-177-Lab-1/
-ls
-cd ../
-rm -rf EEB-177-Lab-1/
-ls
-cd week_1
-ls
-cd ../
-rm -rf week_1
-cd week2_wed/
-ls
-cd ../
-ls
-qrsh
-cd classdata/
-cd In_class/
-cd Week6
-ls
-cd Wednesday/
-ls
-nano MT_run_namecount.py 
-qrsh
-ls
-ls 
-cd FinalProject/
-ls
-cd w5-discuss-questions-jordannholmes/
-ls
-cd w5-discuss-questions-jordannholmes/
-ls
-cd w5-discuss-questions-jordannholmes/
-ls
-cd ../
-ls
-nano README_Week6.md 
-nano README_Week7.md
-rm README_Week7.md 
-ls
-nano README_Week7.md
-mv README_Week7.md README_Week7_Data.txt
-nano README_Week7_Data.txt 
-nano README_Week6.md 
-nano README_Week6
-nano README_Week6.md 
-nano README_Week7_Data.txt
-nano README_Week6.md 
-cd FinalProject/
-ls
-w5-discuss-questions-jordannholmes/
-cd w5-discuss-questions-jordannholmes/
-ils
-ls
-cd w5-discuss-questions-jordannholmes/
-ls
-nano README_Week7_Data.txt
-nano README_Week7.md
-cd $HOme
-module load git
-ls
-git clone https://github.com/pceeb/homework-5-jordannholmes.git
-ls
-cd homework-5-jordannholmes/
-ls
 pwd
 cd $HOME
 cd FinalProject/
@@ -998,3 +423,578 @@ module load git
 git add .
 git commit -m "homework-5-jordannholmes/"
 git push -u origin master
+qrsh
+cd homework-5-jordannholmes/
+ls
+cd ../
+git add .
+ls
+cd homework-5-jordannholmes/
+ls
+cd ../
+rm -r /u/home/class/c177/c177-12/.git/index.lock
+ls
+git add .
+git clone https://github.com/pceeb/homework-5-jordannholmes.git
+git commit -m "homework-5-jordannholmes/"
+git push -u origin master
+git config --global core.editor "nano"
+git pull origin master
+git pull
+nano .git/config
+git push -u origin master
+git add .
+nano .git/config
+qrsh
+cd homework-5-jordannholmes/
+ls
+sed 's/;/\t/g' README_Week7_Data.txt | sed 's/../\t/g'
+qrsh
+cd homework-5-jordannholmes/
+ls
+cd homework-5-jordannholmes/
+ls
+cd ../
+rm -r homework-5-jordannholmes/
+qrsh
+cd homework-5-jordannholmes/
+sed 's/;/\t/g' README_Week7_Data.txt | sed 's/../\t/g'
+grep -n ";;"
+qrs
+qrsh
+cd homework-5-jordannholmes/
+grep -n ";;" README_Week7_Commands.txt
+grep -n ";;" README_Week7_Data.txt
+sed 's/;/\t/g' README_Week7_Data.txt | sed 's/../\t/g'
+sed 's/;/\t/g' README_Week7_Data.txt | sed 's/../\t/g' README_Week7_Data.txt
+sed 's/;/\t/g' | sed 's/../\t/g' README_Week7_Data.txt
+qrsh
+cd homework-5-jordannholmes/
+ls
+sed 's/;/\t/g' README_Week7_Data.txt | sed 's/../\t/g'
+sed 's/;/\t/g' README_Week7_Data.txt |sed 's/../\t/g'
+sed 's/%/\t/g' README_Week7_Data.txt | sed 's/\.\./\t/g'
+grep -n ";;" README_Week7_Data.txt
+qrsh
+ls
+cd JH_Week8_Monday.Rmd 
+nano JH_Week8_Monday.Rmd 
+cd classdata/
+cd In_class/
+ls
+cd Week8
+ls
+cd Wednesday/
+ls
+cd ../
+cd Monday/
+ls
+pwd
+cd $HOME
+mv JH_Week8_Monday.Rmd /u/home/class/c177/c177-12/classdata/In_class/Week8/Monday
+cd /u/home/class/c177/c177-12/classdata/In_class/Week8/Monday
+ls
+nano JH_Week8_Monday.Rmd 
+ls
+qrsh
+cd FinalProject/
+ls
+w5-discuss-questions-jordannholmes/
+cd w5-discuss-questions-jordannholmes/
+ls
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt 
+qrsh
+cd FinalProject/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+nano README_Week7_Commands.txt 
+cd ../
+cd classdata/
+cd In_class/
+cd cd ../
+cd ../
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+cd homework-5-jordannholmes/
+ls
+nano README_Week7_Commands.txt 
+cd homework-5-jordannholmes/
+ls
+cd ../
+rm -r homework-5-jordannholmes/
+qrsh
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd homework-5-jordannholmes/
+ls
+cd ../
+rm -r homework-5-jordannholmes/
+qrsh
+cd ls
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+cd homework-5-jordannholmes/m
+cd homework-5-jordannholmes/
+ls
+cd ../
+cd../
+cd ../
+cd homework-5-jordannholmes/
+ls
+cd ../
+cd FinalProject/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd README_Week7_Commands.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt 
+cd ../
+ls
+cd w5-discuss-questions-jordannholmes/
+l
+ls
+nano README_Week5.md 
+nano README_Week6.md 
+nano README_Week7_Commands.txt 
+nano README_Week7_Data.txt 
+nano README_Week7.md 
+rm README_Week7_Commands.txt 
+cd ../
+ls
+homework-5-jordannholmes/
+cd homework-5-jordannholmes/
+ls
+cd README_Week7_Commands.txt 
+nano README_Week7_Commands.txt 
+pwd
+cp README_Week7_Commands.txt 
+cp README_Week7_Commands.txt /u/home/class/c177/c177-12/FinalProject/w5-discuss-questions-jordannholmes/
+cd ../
+cd FinalProject/
+cd w5-discuss-questions-jordannholmes/
+ls
+nano README_Week7
+nano README_Week7.md 
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+ls
+cd ../
+module load git
+git clone https://github.com/jordannholmes/FinalProject.git
+ls
+cd ../
+git clone https://github.com/jordannholmes/FinalProject.git
+cd FinalProject/
+rm -r FinalProject/
+qrsh
+ls
+cd homework-5-jordannholmes/
+ls
+nano README_Week7_C
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt README_Week7_Data.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sed -e '4d; 16d; 23d; 24d; 25d; 27d; 30d; 31d; 35d; 36d; 40d' README_Week7_Data.txt
+nano README_Week7_Commands.txt 
+sed -e '4d; 16d; 23d; 24d; 25d; 27d; 30d; 31d; 35d; 36d; 40d' README_Week7_Data.txt
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sed 's/;/\t/g' README_Week7_Data.txt | sed 's/\.\./\t/g'
+nano README_Week7_Commands.txt 
+sed -e '4d; 16d; 23d; 24d; 25d; 27d; 30d; 31d; 35d; 36d; 40d; 43d; 45d; 46d; 47d; 55d; 57d; 67d; 68d; 79d; 82d; 85d; 86d; 90d; 91d; 92d; 102d; 103d; 104d; 105d' README_Week7_Commands.txt 
+sed -e '4d; 16d; 23d; 24d; 25d; 27d; 30d; 31d; 35d; 36d; 40d; 43d; 45d; 46d; 47d; 55d; 57d; 67d; 68d; 79d; 82d; 85d; 86d; 90d; 91d; 92d; 102d; 103d; 104d; 105d' README_Week7_Data.txt 
+sed -e '4d; 16d; 23d; 24d; 25d; 27d; 30d; 31d; 35d; 36d; 40d; 43d; 45d; 46d; 47d; 55d; 57d; 67d; 68d; 79d; 82d; 85d; 86d; 90d; 91d; 92d; 102d; 103d; 104d; 105d' README_Week7_Data.txt | sed 's/;/\t/g' | sed 's/\.\./\t/g'
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt
+cd ../
+cd FinalProject/
+ls
+cd ../
+cd FinalProject/
+ls
+rm -r FinalProject/
+qrsh
+module load git
+git clone https://github.com/jordannholmes/FinalProject.git
+git add .
+qrsh
+cd FinalProject/
+cd w5
+pwd
+cd w5-discuss-questions-jordannholmes/
+ls
+mv README_Week5.md /u/home/class/c177/c177-12/FinalProject
+mv README_Week6.md /u/home/class/c177/c177-12/FinalProject
+mv README_Week7_Commands.txt /u/home/class/c177/c177-12/FinalProject
+mv README_Week7_Data.txt /u/home/class/c177/c177-12/FinalProject
+mv README_Week7.md /u/home/class/c177/c177-12/FinalProject
+ls
+cd ../
+ls
+cd ..
+module load git
+git add .
+git config --global core.editor "nano"
+git pull
+git config --global core.editor "nano"
+git pull origin master
+cd FinalProject/
+ls
+ls -ld FinalProject/
+ls
+rm -rf FinalProject/
+ls
+rm -rf w5-discuss-questions-jordannholmes/
+ls
+cd ../
+git config --global core.editor "nano"
+git pull
+git pull origin master
+module load git
+git clone https://github.com/jordannholmes/FinalProject.git
+cd FinalProject/
+ls
+cd ..
+git add .
+git init
+git add .
+git commit -m "FinalProject"
+qrsh
+qrsh
+git clone https://github.com/jordannholmes/FinalProject.git
+git commit -m "FinalProject"
+git init
+ls
+git commit -m "FinalProject/"
+git commit -a "FinalProject/n"
+module load git
+git add .
+repository-checkout>/.git/modules/<submodule-name>/config.
+qrsh
+module load git
+git init
+ls -a
+git clone https://github.com/jordannholmes/FinalProject.git
+git commit -m "FinalProject/"
+cd FinalProject/
+ls
+cd README_Week7_Commands.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt 
+nano README_Week7_Commands.txt 
+grep -n ";/n" README_Week7_Data.txt 
+grep -n ";\n" README_Week7_Data.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt 
+nano README_Week7_Commands.txt 
+qrsh
+cd FinalProject/
+ls
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt README_Week7_Data.txt 
+nano README_Week7_Data.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt README_Week7_Data.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt README_Week7_Data.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt README_Week7_Data.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt README_Week7_Data.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt README_Week7_Data.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt README_Week7_Data.txt 
+nano README_Week7_Commands.txt 
+sh README_Week7_Commands.txt README_Week7_Data.txt 
+qrsh
+ls
+nano core.28944 
+rm core.28944 
+ls
+cd introscicomp2014/
+ls
+cd ../
+cd FinalProject/
+ls
+cd ../
+nano home
+nano homework-5-jordannholmes/
+cd homework-5-jordannholmes/
+ls
+cd homework-5-jordannholmes/
+cd ../
+rm -rf homework-5-jordannholmes/
+ls
+cd ../
+nano JH_Week8_Wednesday.txt
+ls
+cp JH_Week8_Wednesday.txt ~/classdata/In_class/Week8/Wednesday/
+cd classdata/
+cd In_class/
+cd Week8
+cd Wednesday/
+ls
+cd $HOME
+ls
+nano README_Week7_Commands.txt 
+mv README_Week7_Commands.txt README_Week8_UpdatedCommands.txt
+ls
+mc README_Week8_UpdatedCommands.txt README_Week7_Commands.txt
+mv README_Week8_UpdatedCommands.txt README_Week7_Commands.txt
+ls
+cp README_Week7_Commands.txt README_Week8_UpdatedCommands.txt
+ls
+nano README_Week8_UpdatedCommands.txt 
+cd FinalProject/
+ls
+cd README_Week7_Commands.txt 
+nano README_Week7_Commands.txt 
+cd ../
+rm README_Week8_UpdatedCommands.txt 
+cd FinalProject/
+ls
+cp README_Week7_Commands.txt README_Week8_UpdatedCommands.txt
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt
+qrsh
+ls
+cd FinalProject/
+ls
+cd README_Week8_UpdatedCommands.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano Script
+ls
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano README_Week8_UpdatedCommands.txt 
+nano Script
+ls
+nano PossibleData 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+qrsh
+ls
+cd FinalProject/
+ls
+cd README_Week7_Commands.txt
+nano README_Week7_Commands.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+ls
+cd PossibleData 
+nano PossibleData 
+rm PossibleData 
+nano PossibleData
+rm PossibleData 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nomobryum auratum
+forward_PITS_123        0       0       0       1       0       0       0       0       0       0       0       0       0       0       0       0       0       0 00       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0 00       0       0       0       0       0       0       0       3       0       Eukaryota       Chlorophyta     Chlorophyceae   Chlamydomonadales       Chlorococcaceae    Chlorococcum    Chlorococcum oleofaciens
+forward_PITS_125        0       0       0       0       2       0       0       0       0       0       0       0       0       0       0       0       0       0 00       0       0       0       0       0       0       0       0       0       0       0       0       1       0       0       0       0       1       0       0 00       0       0       0       0       0       0       0       0       0       Eukaryota       Streptophyta    Bryopsida       Bryales Bryaceae        GemmabryumGemmabryum dichotomum
+forward_PITS_129        0       0       0       0       0       0       2       0       0       0       0       0       0       0       0       0       0       0 00       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0 00       0       1       0       0       1       0       0       0       0       Eukaryota       Streptophyta    Bryopsida       Bryales Bryaceae        AnomobryumAnomobryum auratum
+forward_PITS_133        0       0       0       0       0       0       0       0       0       1       1       0       0       0       0       0       0       0 00       0       0       0       0       0       0       0       0       1       0       0       0       0       0       0       0       0       0       0       0 00       0       0       0       0       0       0       1       0       0       Eukaryota       Chlorophyta     Trebouxiophyceae        Chlorellales    Chlorellaceae      Chlorella       Chlorella sp. SY01
+forward_PITS_139        0       0       0       0       0       0       0       0       0       0       0       0       0       1       0       0       0       0 00       0       1       0       1       0       0       1       0       0       0       0       0       0       0       0       0       0       0       0       0 00       0       0       0       0       0       0       0       0       0       Eukaryota       Chlorophyta     Trebouxiophyceae        Chlorellales    Chlorellaceae      Pseudochlorella Pseudochlorella signiensis
+forward_PITS_140        0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       1 00       0       0       0       0       0       0       0       0       0       1       0       0       0       0       0       0       0       0       0       0 00       0       0       1       0       1       0       0       0       0       Eukaryota       Streptophyta    Klebsormidiophyceae     Klebsormidiales Klebsormidiaceae   Klebsormidium   Klebsormidium sp. BIOTA 14614.18.18
+forward_PITS_145        0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0 00       1       0       0       0       0       2       0       0       0       0       0       1       0       0       0       0       0       0       0       0 00       0       0       0       0       0       0       0       0       0       Eukaryota       Chlorophyta     Chlorophyceae   Chlamydomonadales       Chlamydomonadaceae Chlamydomonas   Chlamydomonas sp. MACC 835
+forward_PITS_146        0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0 00       1       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0 00       0       0       3       0       0       0    
+forward_PITS_147        0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0       0 00       0       1       0       0       0       0       0       0       0       0       0       0       0       0       0       1       0       0       0       0 00       0       0       0       0       0       0       0       0       2       Eukaryota       Streptophyta    Bryopsida       Bryales Bryaceae        GemmabryumGemmabryum dichotomum
+nano PossibleData
+rm PossibleData 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+nano PossibleData
+ls
+nano README_Week8_UpdatedCommands.txt 
+sh README_Week8_UpdatedCommands.txt README_Week7_Data.txt 
+qrsh
+cd FinalProject/
+ls
+cd README_Week8_UpdatedCommands.txt 
+nano README_Week8_UpdatedCommands.txt 
+cd ..
+git clone https://github.com/pceeb/homework-7-week8-jordannholmes.git
+ls
+cd FinalProject/
+ls
+pwd
+cp PossibleData /u/home/class/c177/c177-12/homework-7-week8-jordannholmes/
+cp README_Week8_UpdatedCommands.txt /u/home/class/c177/c177-12/homework-7-week8-jordannholmes/
+cd ..
+cd homework-7-week8-jordannholmes/
+ls
+cd ../
+module load git
+ls -a
+git add .
+git config --global core.editor "nano"
+git pull
+git pull origin master
+ls -a
+rm .git/index
+git reset
+ls
+cd FinalProject/
+ls
+nano README_Week8_UpdatedCommands.txt 
+cd ../
+module load git
+ls -a
+git add .
+git clone https://github.com/pceeb/homework-7-week8-jordannholmes.git
+git commit -m "homework-7-week8-jordannholmes/"
+cd homework-7-week8-jordannholmes/
+git init
+cd ../
+git commit -m "homework-7-week8-jordannholmes/"
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+qrsh
+module load git
+ls -a
+git init
+git commit -m "homework-7-week8-jordannholmes/"
+cd homework-7-week8-jordannholmes/
+git init
+cd ../
+git add .
+qrsh
+cd homework-7-week8-jordannholmes/
+ls
+cd ../
+module load git
+git config --global core.editor "nano"
+git pull origin master
+git commit -m "homework-7-week8-jordannholmes"
+cd homework-7-week8-jordannholmes/
+git init
+cd ..
+git commit -m "homework-7-week8-jordannholmes"
+cd w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd ../
+rm -rf w5-discuss-questions-jordannholmes/
+cd homework-5-jordannholmes/
+ls
+cd ../
+rm -rf homework-5-jordannholmes/
+nano README.md 
+cd README_Week7.md 
+nano README_Week5.md 
+nano README_Week6.md 
+cd ../
+cd FinalProject/
+ls
+cd ../
+rm w5-discuss-questions-jordannholmes/
+ls
+cd w5-discuss-questions-jordannholmes/
+ls
+cd README.md 
+nano README.md 
+cd ../
+nano README.md 
+cd ../
+ls
+c177-12
+cd c177-12
+ls
+rm -r w5-discuss-questions-jordannholmes/
