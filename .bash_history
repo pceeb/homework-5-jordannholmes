@@ -116,3 +116,64 @@ cd homework-5-jordannholmes/
 ls
 cd ../
 nano README.md 
+ls
+nano README.HW5.md
+nano README.md
+nano README.HW5.md
+ls
+cd homework-5-jordannholmes/
+ls
+rm introscicomp2014/
+rm -rf introscicomp2014/
+rm -rf JH_Week6_Monday_InClassAssignment/
+cd ../
+ls
+cd homework-5-jordannholmes/
+ls
+rm -rf FinalProject/
+rm -rf homework-5-jordannholmes/
+ls
+cd ../
+la
+ls
+cd homework-5-jordannholmes/
+ls
+rm -rf homework-7-week8-jordannholmes/
+rm rf lab4-challenges-jordannholmes/
+rm -rf lab4-challenges-jordannholmes/
+rm lecthw4-assignment-jordannholmes/
+rm -rf lecthw4-assignment-jordannholmes/
+ls
+rm -rf week2_wed/
+rm JH_Week8_Wednesday.txt 
+rm README_Week7_Commands.txt 
+rm README_Week7_Data.txt 
+rm README_Week7.md 
+ls
+cd ../
+pwd
+mv README.HW5.md /u/home/class/c177/c177-12/homework-5-jordannholmes/
+cp README_Week7_Commands.txt /u/home/class/c177/c177-12/homework-5-jordannholmes/
+cp README_Week7_Data.txt /u/home/class/c177/c177-12/homework-5-jordannholmes/
+cp README_Week7.md /u/home/class/c177/c177-12/homework-5-jordannholmes/
+cd homework-5-jordannholmes/
+ls
+mv README.HW5.md README.md
+ls
+cd ../
+ls
+rm README.md.save
+rm README.md.save.1 
+ls
+cd homework-7-week8-jordannholmes/
+ls
+cd ../
+module load git
+git clone homework-5-jordannholmes/
+ls -a
+git add .
+git clone https://github.com/pceeb/homework-5-jordannholmes.git
+git add .
+git commit -m "homework-5-jordannholmes/"
+git push -u origin master
+git pull
