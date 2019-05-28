@@ -1,3 +1,0 @@
-__Homework:__
-
-This course includes a broad range of topics and tools. Practice is the best way to learn how to program and homework assignments will prepare you for in class activities. Homework assignments will help you learn and master basic programming skills. Homework assignments will be submitted electronically before class. The submission cutoff is 7:45 am the day of class. Late submissions will be accepted but penalized 10% each day late (submitting 7:46 the day of class counts as 1 day late).
