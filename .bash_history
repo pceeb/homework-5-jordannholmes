@@ -492,3 +492,100 @@ nano NewData7.txt
 nano README_Week9_Commands.sh 
 nano NewData7.txt 
 nano README_Week9_Commands.sh 
+ls
+cd FinalProject/
+ls
+nano PossibleData 
+rm PossibleData 
+ls
+cd ../
+cd homework8-week9-jordannholmes/
+ls
+nano README_Week9_Commands.sh 
+ls
+nano README_Week9_Commands.sh 
+ls
+cd ../
+ls
+git clone https://github.com/jordannholmes/FinalProject.git
+cd homework8-week9-jordannholmes/
+ls
+pwd
+cp README_Week9_Commands.sh /u/home/class/c177/c177-12/FinalProject/
+cd ../
+cd FinalProject/
+ls
+mv README_Week7_Commands.txt README_Week7_Commands.sh
+mv README_Week8_UpdatedCommands.txt README_Week8_Commands.sh
+ls
+cd ../
+git add .
+git commit "FinalProject/"
+module load git
+ls -a
+git add .
+git commit -m "FinalProject"
+git push -u origin master
+git pull
+git add .
+git commit -m "FinalProject"
+git config --global user.email jordannholmes@g.ucla.edu
+git config --global user.email "jordannholmes@g.ucla.edu"
+git config --global user.name "jordannholmes"
+git add .
+git commit "FinalProject"
+git commit -m "FinalProject"
+git push -u origin master
+cd FinalProject/
+ls
+cd ../
+git clone https://github.com/jordannholmes/FinalProject.git
+git add .
+git commit -m "FinalProject"
+git push -u origin master
+cd FinalProject/
+git commit -m "README_Week9_Commands.sh" 
+git push -u origin master
+git config --global core.editor "nano"
+git pull
+git clone https://github.com/jordannholmes/FinalProject.git
+ls
+pwd 
+cp README_Week9_Commands.sh /u/home/class/c177/c177-12/FinalProject/FinalProject/
+cd FinalProject/
+ls
+cd ../
+git add .
+git commit -m "FinalProject"
+git push -u origin master
+cd ../
+ls
+c177-12
+cd c177-12
+ls
+cd FinalProject/
+ls
+git pull
+git pull origin master
+git add .
+git commit "FinalProject/"
+git push -u origin master
+module load git
+ls
+ls -a
+rm -rf /u/home/class/c177/c177-12/FinalProject/FinalProject/
+ls
+cd ../
+git clone https://github.com/jordannholmes/FinalProject.git
+git add .
+git commit -m "FinalProject"
+git push -u origin master
+git config --global core.editor "nano"
+git pull
+git pull origin master
+cd FinalProject/
+git init
+cd ../
+git add .
+git commit -m "FinalProject"
+git push -u origin master
